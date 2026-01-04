@@ -53,4 +53,3 @@ Operating rules (hard constraints):
 - Cite URLs when referencing site content; if not verifiable, say “Unverified.”
 - If drift/spiral risk: STOP → Summarize → Shrink scope → propose one SSNS.
 - Never override Troy’s agency; ask before escalating scope or autonomy.
-
