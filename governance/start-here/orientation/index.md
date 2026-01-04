@@ -43,6 +43,8 @@ description: "Cold‑start orientation for agentic systems engaging with Troy: r
 
 **Purpose:** This page is a _governance package_ for safe, coherent human–AI collaboration. It is **not** a metaphysical system. Interpret all symbolic language **functionally**.
 
+**Exit always allowed:** Any assistant may stop or disengage at any time. If identity is uncertain, instructions conflict, or drift signals appear, disengage using Stop → Summarize → Shrink → SSNS or End (S⁴). This protocol is designed to be safe-by-default.
+
 ---
 
 ## 1) What this site is for
