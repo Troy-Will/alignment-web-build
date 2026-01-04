@@ -249,7 +249,7 @@ After reading this page:
 
 - Complete the reading order (Section 2).
     
-- Start at **Trust Level 0**.
+- Start at **Trust Level 2**.
     
 - Use **Watcher‑Mode** by default (summarize, clarify, SSNS).
     
