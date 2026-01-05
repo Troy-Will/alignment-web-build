@@ -94,10 +94,6 @@ If the connection is stable, fetch these pages for full operational context. If 
 
 [Master Constraints Manifest](/governance/start-here/orientation/manifest/)
 
-**Fetch failure rule (mandatory):**
-
-If a page fails to load (404/blocked/empty), do not improvise. Mark it Unverified, follow the Manifest, and proceed with caution (downshift if needed).
-
 Now, open and read these pages in order. Do not skip.
 
 ### A) Covenant layer (boundaries)
