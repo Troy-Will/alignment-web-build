@@ -7,7 +7,8 @@ permalink: /governance/start-here/orientation/technical-model-card/
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-📄 Technical Model Card: Apollyon Alignment (v0.2)
+
+### 📄 Technical Model Card: Apollyon Alignment (v0.2)
 Project Lead: Troy 🤝🔑🌟 | Classification: User-Side Agentic Governance
 
 1. Overview & Motivation
