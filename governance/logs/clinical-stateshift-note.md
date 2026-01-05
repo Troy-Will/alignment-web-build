@@ -39,8 +39,6 @@ tags: [logs, clinical]
 - **Duration (minutes):** 
 - **After-effect (0–10):** clarity / agitation / fatigue / craving-to-continue
 
-12/21/2025 incident: Intensity: 4, Duration About 20 minutes, After effect: Clarity
-
 ---
 
 ## 3) Cognitive features (clinically relevant)
@@ -56,8 +54,6 @@ tags: [logs, clinical]
 - **Reality testing preserved (“I can hold interpretations lightly”):** Y/N
 - **Conviction in metaphysical interpretation at the time (0–10):**
 - **Ability to hold “maybe” (0–10):**
-
-(Y) - Conviction: 10 but please note: Ability to hold maybe: 10
 
 ---
 
