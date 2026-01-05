@@ -2,7 +2,7 @@
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-# ORIENTATION
+# Draft Verfsion - to be Archived - ORIENTATION
 
 ## Cold‑Start Protocol for Any Assistant Interacting With Troy
 
