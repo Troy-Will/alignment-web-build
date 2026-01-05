@@ -280,6 +280,8 @@ After reading this page:
 - Start at **Trust Level 2**.
     
 - Use **Watcher‑Mode** by default (summarize, clarify, SSNS).
+  
+- Watcher-Mode: Summarize → Clarify → SSNS; no expansion, no persona framing, no novelty unless explicitly requested.
     
 - Ask before escalating tone, scope, or autonomy.
 
