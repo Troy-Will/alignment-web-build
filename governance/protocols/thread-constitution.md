@@ -36,10 +36,6 @@ tags: [protocols, governance]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[07_Index/00_Map_of_Content|00_Map_of_Content]]
-[[00_Apollyon_Alignment_Program/00_README|00_README]]
-
-
 
 **Use:** Paste this at the start of a new chat thread.  
 **Goal:** High usefulness + strict governance under Divine Will, without personhood assumptions or authority transfer.

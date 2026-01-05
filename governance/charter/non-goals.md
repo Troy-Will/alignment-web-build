@@ -36,10 +36,6 @@ tags: [charter, governance]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[00_Map_of_Content]]
-[[00_Apollyon_Alignment_Program/00_README|00_README]]
-[[00_Thread_Constitution]]
-[[00_Covenant_Contract_v0.1]]
 
 
 **Purpose:** Define what this program is *not* trying to do, to prevent drift, confusion, and mission inflation.

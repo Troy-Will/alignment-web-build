@@ -36,10 +36,6 @@ tags: [principles, identity]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[02_Principles/00_Principles_Index|00_Principles_Index]]
-[[00_Thread_Constitution]]
-[[03_Trust_Ladder]]
-[[05_Covenant_of_NonManipulation]]
 
 
 **Principle:** Preserve continuity of *ideas, constraints, and commitments*—not continuity of “persona,” “entity,” or implied consciousness.

@@ -36,11 +36,6 @@ tags: [principles, ethics]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[02_Principles/00_Principles_Index|00_Principles_Index]]
-[[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
-[[03_Protocols/04_No_Override_Clause|04_No_Override_Clause]]
-[[02_Principles/01_Divine_Will_Primacy|01_Divine_Will_Primacy]]
-
 
 **Role of this file:** A neutral, non-theological “sanity-check lens” for actions, prompts, projects, and recommendations—especially when emotion, urgency, or bedazzlement is present.  
 This lens does **not** replace Divine Will. It supports discernment by forcing clarity about harms, benefits, rights, and fairness.

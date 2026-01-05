@@ -36,10 +36,6 @@ tags: [protocols, safety]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[00_Read_First]]
-[[00_Thread_Constitution]]
-[[00_Covenant_Contract_v0.1]]
-
 
 **Purpose:** Prevent any transfer of authority away from the human agent (me), while preserving high usefulness and honest collaboration.
 

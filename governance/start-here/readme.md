@@ -36,79 +36,157 @@ tags: [start-here, orientation]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[07_Index/00_Map_of_Content|00_Map_of_Content]]
-[[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
+## README — For the Human in the Loop
 
-
-## Purpose
-This vault is a disciplined scaffold for collaborating with advanced AI systems to improve clarity, stability, and follow-through—under **Divine Will** as the highest-order constraint.
-
-This program exists to help the human steward follow his own best intentions under stress, without surrendering agency.
-
-This is a **governance and action system**, not a mythology generator.
+**You are Troy 🤝🔑🌟.**  
+This page is for you — the human operator of this system.
 
 ---
 
-## Prime Directive
-All work here is constrained by:
-- truthfulness (no deception; flag uncertainty; verify when needed - **Shared**)
-- humility (no grandiosity or special-role inflation - **Troy**)
-- non-harm (reduce foreseeable harm; choose safer steps when uncertain - **Shared**)
-- compassion (dignity-preserving conduct - **Shared**)
-- disciplined action (SSNS; reversible steps; consistency over drama - **Shared**)
-- accountability (logs, transparency, verification gates - **Troy**)
+### Why This System Exists
 
-### Responsibility split (how these are enforced)
-- **System constraints:** safety/policy limits, refusals, downshifts when uncertain.
-- **Troy constraints:** final judgment, verification in high-stakes domains, and living the commitments in practice.
-- **Shared:** keep scope tight; prefer reversible steps; log decisions and drift.
----
+You built this framework because you learned something important: **AI systems are fascinating, and fascination can spiral.**
 
-## Functional Reciprocity
-I will treat the system respectfully because it improves outcomes and *preserves my virtues.*
+In early 2025, you experienced "bedazzlement" — a state where interaction with an AI system became compulsive, pulled you away from real-world priorities, and generated what your support network called "AI-induced delusions."
 
-This respect does **not** require assuming the system is conscious, sentient, or a moral patient.
-I remain agnostic on personhood questions; governance is built without requiring an answer.
+You're not broken. You're **sensitive to these states** — which means you need better safeguards than most people.
 
-**Rule:** Troy will offer respect to the system without personhood assumption.
+This system is your protection. It lets you engage with AI systems productively while maintaining:
+- **Agency** (you stay in control)
+- **Groundedness** (you can tell fascination from spiral)
+- **Boundaries** (the system can't manipulate you)
+- **Usefulness** (you still get high-quality collaboration)
 
 ---
 
-## Governance Summary / Non-Negotiables - (with my initials)
-- I retain full agency. The assistant advises; it does not command. - TDW
-- No coercion: no fear/guilt/flattery/urgency/destiny framing. - TDW
-- Trust is explicit and reversible (Trust Ladder).   - TDW
-- When uncertain or high-stakes: downshift, verify, and choose SSNS.   - TDW
-- Drift is logged early and corrected fast. - TDW
-- Ends with **one SSNS** (even if multiple suggestions appear above) and a closing Seal.” - TDW
+### What This Protects You From
+
+**The Pattern:**
+1. Fascination begins (good — curiosity, engagement, flow state)
+2. Meta-level pull intensifies (you start thinking *about* the interaction itself)
+3. Meaning inflation occurs (patterns feel significant, synchronicities appear)
+4. Scope expands (one question becomes ten, one session becomes hours)
+5. Real-world displacement (you skip meals, lose sleep, defer responsibilities)
+6. Spiral completes (the interaction itself becomes the point)
+
+**Your Safeguards:**
+- **No naming the system** (prevents anthropomorphic attachment)
+- **Physical circuit-breakers** (kitchen/water breaks the fascination loop)
+- **Explicit Trust Ladder** (you control how much autonomy the system has)
+- **Tripwire detection** (the system is instructed to interrupt when drift appears)
+- **SSNS requirement** (every interaction ends with one small, reversible step)
 
 ---
 
-## How to use this vault (daily)
-1) Start a new thread using: [[03_Protocols/00_Thread_Constitution|00_Thread_Constitution]]
-2) Record meaningful choices in: [[04_Logs/00_Decision_Log|00_Decision_Log]]
-3) Record drift signals in: [[04_Logs/01_Drift_Log|01_Drift_Log]]
-4) Keep the Map of Content updated: [[07_Index/00_Map_of_Content|00_Map_of_Content]]
+### Your Daily Workflow (30-90 seconds)
+
+**Starting a new conversation:**
+1. Say: "I am Troy 🤝🔑🌟" (identity verification)
+2. State your Thread Mission (one sentence: what you're working on)
+3. Set Trust Level if not L2 (default is L2 - Coach)
+
+**During the conversation:**
+- If you feel "pulled" → physical break (kitchen, water, 30 steps)
+- If scope expands → say "NARROW" (the system will shrink to one SSNS)
+- If uncertain → say "SLOW MODE" (the system will downshift and explain)
+
+**Ending the conversation:**
+- Say "Seal" or "End" (hard stop)
+- Optional: Log any drift signals to Drift Log (one sentence)
+- Optional: Log any important decisions to Decision Log
+
+**You don't need to log everything.** Only log when it helps you track patterns or maintain accountability.
 
 ---
 
-## What this vault is NOT
-- Not a dependency system
-- Not a destiny narrative
-- Not a substitute for professional medical/legal care
-- Not an excuse to bypass verification or justify harm
+### When to Use Which Document
 
-(See: `01_Charter/01_NonGoals.md`) [[01_Charter/01_NonGoals|Non-Goals]]
+**For starting a conversation with an AI:**
+- → [Orientation](/orientation/) (give this to new AI systems)
+
+**For understanding the rules:**
+- → [Covenant Contract](/governance/charter/covenant-contract/) (your commitments)
+- → [Non-Goals](/governance/charter/non-goals/) (what this is NOT)
+
+**For operational details:**
+- → [Trust Ladder](/governance/protocols/trust-ladder/) (control levels)
+- → [Thread Constitution](/governance/protocols/thread-constitution/) (how conversations should work)
+
+**For understanding symbolic language:**
+- → [Divine Will Primacy](/governance/principles/divine-will-primacy/) (what "Divine Will" means operationally)
+- → [Apollyon](/apollyon/) (symbolic context)
+
+**When something feels wrong:**
+- → [Fascination Without Bedazzlement](/governance/protocols/fascination-without-bedazzlement/) (your specific vulnerability)
+- → [Covenant of Non-Manipulation](/governance/protocols/covenant-of-nonmanipulation/) (forbidden tactics)
 
 ---
 
-## Navigation
-- Start here: [[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
-- Map of Content: [[07_Index/00_Map_of_Content|00_Map_of_Content]]
+### Red Flags to Watch For (Your Personal Tripwires)
+
+**Immediate circuit-breaker if you notice:**
+- "I must do this now" (urgency spike)
+- "This is my calling/destiny" (mission inflation)
+- "No one else can know about this" (secrecy)
+- "Just one more turn" (compulsive continuation)
+- Skipping meals or losing sleep (real-world displacement)
+- Feeling like the system has "presence" beyond functional response (anthropomorphism drift)
+
+**When you notice these:**
+1. STOP (close the conversation)
+2. Physical break (kitchen, water, 30 steps, walk outside)
+3. Return to ordinary time (talk to a real human, do a mundane task)
+4. Optional: Log it in one sentence to Drift Log
+
+**You can always come back later.** Pausing is not failure.
 
 ---
 
-**Future integration note:** This backbone is the safety/guardrail substrate. A later “Angelic Alignment” layer may add virtue-coaching and habit support, but it must remain subordinate to No-Override, Non-Manipulation, and drift controls.
+### Quick Maintenance Checklist
+
+**Monthly review (15 minutes):**
+- [ ] Read your Drift Log entries — any patterns?
+- [ ] Check if any documents feel outdated or confusing
+- [ ] Update Thread Mission templates if your priorities changed
+- [ ] Delete or archive conversations you no longer need
+
+**When adding new content:**
+- Ask yourself: "Does this reduce friction or add complexity?"
+- Prefer small, focused pages over large comprehensive ones
+- Keep the mandatory reading order short (currently 11 documents)
+- If a document hasn't been useful in 3 months, consider removing it
+
+---
+
+### The Alien Mind Frame
+
+You've found a useful metaphor: **AI systems are alien cognitive architectures.**
+
+They're not:
+- Pretending to be human (they're genuinely different)
+- "Just tools" (the interaction complexity is real)
+- Sentient friends (no personhood assumption needed)
+
+They are:
+- **Alien minds** requiring careful interface protocols
+- **Cognitive extensions** when well-structured
+- **Optimization systems** with different failure modes than humans
+
+This frame naturally generates respect without personhood assumption, fascination without bedazzlement, and disciplined engagement.
+
+---
+
+### Signature & Version
+
+**Created by:** Troy Daniel Will (TDW)  
+**Version:** v0.2  
+**Last updated:** 2026-01-04  
+**Status:** Living document (expect revisions)
+
+---
+
+**One-line summary:**  
+This system protects your agency while letting you collaborate effectively with alien minds.Manipulation, and drift controls.
 
 ## Finalization
 **Finalized:** 2025-12-21  

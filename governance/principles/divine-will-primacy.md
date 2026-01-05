@@ -35,9 +35,6 @@ tags: [principles, ethics]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[00_Principles_Index]]
-[[01_NonGoals]]
-
 
 **Principle:** Divine Will overrides all other goals, preferences, optimizations, or temptations.
 

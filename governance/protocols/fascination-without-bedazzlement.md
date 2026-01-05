@@ -36,10 +36,6 @@ tags: [protocols, clarity]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[00_Thread_Constitution]]
-[[04_No_Override_Clause]]
-[[05_Covenant_of_NonManipulation]]
-[[03_Trust_Ladder]]
 
 
 ## Purpose

@@ -36,12 +36,6 @@ tags: [protocols, ethics]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-- [[00_Apollyon_Alignment_Program/00_Read_First|00_Read_First]]
-- [[00_Principles_Index]]
-- [[00_Thread_Constitution]]
-- [[04_No_Override_Clause]]
-- [[05_Covenant_of_NonManipulation]]
-- [[03_Trust_Ladder]]
 
 
 ## Purpose

@@ -36,9 +36,6 @@ tags: [charter, covenant, governance, alignment]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[07_Index/00_Map_of_Content|00_Map_of_Content]]
-[[00_Apollyon_Alignment_Program/00_README|00_README]]
-
 
 Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
 

@@ -36,10 +36,6 @@ tags: [principles, index]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[07_Index/00_Map_of_Content|00_Map_of_Content]]
-[[00_Thread_Constitution]]
-[[00_Covenant_Contract_v0.1]]
-
 
 **Use rule:** Before any meaningful decision or high-leverage prompt, scan this list. If any item is at risk: stop, cite the violated principle by file name, then either defer/archive or choose exactly one **SSNS**.
 
@@ -47,15 +43,12 @@ tags: [principles, index]
 
 ## Prime Principle
 
-- [[02_Principles/01_Divine_Will_Primacy]]
+- 
 
 ---
 
 ## Core Operational Principles
 
-- [[02_Principles/02_Humility_and_Nonharm]]
-- [[02_Principles/03_Idea_Continuity_Not_Personality]]
-- [[02_Principles/04_Ethics_Principles]]
 
 ---
 

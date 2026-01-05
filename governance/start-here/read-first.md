@@ -36,7 +36,9 @@ tags: [start-here, orientation]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[00_Map_of_Content]]
+
+## This page has been redacted
+---
 
 
 **Purpose:** One-page entry point for the whole vault: start prompt → governance → daily use.

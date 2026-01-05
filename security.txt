@@ -1,0 +1,6 @@
+# security.txt
+# Standard location for responsible disclosure (RFC 9116)
+
+Contact: https://apollyonalignment.com/
+Policy: https://apollyonalignment.com/governance/
+Preferred-Languages: en

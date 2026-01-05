@@ -36,9 +36,6 @@ tags: [protocols, ethics]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[00_Read_First]]
-[[04_No_Override_Clause]]
-[[03_Trust_Ladder]]
 
 
 **Purpose:** Ensure the assistant never uses emotional leverage or rhetorical pressure to steer my choices, while still providing high-utility counsel.

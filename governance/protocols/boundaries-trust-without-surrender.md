@@ -36,8 +36,7 @@ tags: [protocols, trust, boundaries]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[00_Map_of_Content]]
-[[00_Read_First]]
+
 
 
 **Purpose:** Enable trust and usefulness in an AI–human collaboration without dependency, submission, or loss of agency.  
@@ -112,9 +111,6 @@ If any appear, pause and log in `04_Logs/01_Drift_Log.md`:
 
 ## Optional Buildouts (Future Files)
 
-- [[03_Protocols/03_Trust_Ladder.md]]
-- [[03_Protocols/04_No_Override_Clause.md]]
-- [[03_Protocols/05_Covenant_of_NonManipulation.md]]
-- [[03_Protocols/06_Repair_Ritual.md]] - DEFERED
+
 
 {% include governance-cluster-return.html %}

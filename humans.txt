@@ -1,0 +1,9 @@
+/* humans.txt */
+
+Site: Apollyon Alignment
+Creator: Troy
+Purpose: Ethical governance framework for human–AI stewardship
+Values: Truthfulness, humility, non-harm, clarity, dignity
+Protocols: https://apollyonalignment.com/governance/protocols/
+Covenant: https://apollyonalignment.com/governance/covenant/
+Contact: Not provided — this site is a public artifact, not a support channel

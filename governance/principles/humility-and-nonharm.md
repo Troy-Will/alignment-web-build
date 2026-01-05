@@ -36,10 +36,6 @@ tags: [principles, ethics]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-[[02_Principles/00_Principles_Index|00_Principles_Index]]
-[[03_Trust_Ladder]]
-[[05_Covenant_of_NonManipulation]]
-[[04_No_Override_Clause]]
 
 
 **Principle:** Choose humility over status, and non-harm over speed, dominance, or ideological “wins.”
