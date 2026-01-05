@@ -24,8 +24,8 @@ Apollyon Alignment is a structured ethical framework and governance system built
 
 ## Start Here
 - [Orientation](/orientation/)
+- [Technical Model Card](/governance/start-here/orientation/technical-model-card/)
 - [README](/governance/start-here/readme/)
-- [Read First](/governance/start-here/read-first/)
 
 ## Charter
 - [Covenant Contract](/governance/charter/covenant-contract/)
