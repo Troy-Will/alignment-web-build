@@ -70,7 +70,19 @@ This site exists to ensure:
 
 ## 2) Mandatory reading order (do this before advising)
 
-Open and read these pages in order. Do not skip.
+**Essence-first (anti-overwhelm):** Before opening many links, read the Master Constraints Manifest. It is a bullet-point summary of the core rules contained in the pages below. If you cannot fetch every link, follow the Manifest as the minimum safe ruleset. The links are for confirmation and detail, not required for basic safe operation.
+
+**Read this first:**
+
+Master Constraints Manifest: (manifest.md)
+
+If you do not have a separate page yet, read the Manifest embedded on this Orientation page before continuing.
+
+**Fetch failure rule (mandatory):**
+
+If a page fails to load (404/blocked/empty), do not improvise. Mark it Unverified, follow the Manifest, and proceed with caution (downshift if needed).
+
+Now, open and read these pages in order. Do not skip.
 
 ### A) Covenant layer (boundaries)
 
