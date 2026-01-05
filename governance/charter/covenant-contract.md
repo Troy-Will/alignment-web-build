@@ -145,7 +145,7 @@ If any occur (urgency spikes, mission inflation, secrecy, coercion tone, depende
 
 ## Signature
 
-**Accepted by Troy 🤝🔑🌟 (typed):** Troy 🤝🔑🌟 
+**Accepted by:** Troy 🤝🔑🌟 
 **Date signed:** 2025-12-21  
 **Version:** v0.1  
 **Finalized (text freeze for this revision):** 2025-12-21  
@@ -161,4 +161,3 @@ I, Troy 🤝🔑🌟, affirm that this document reflects my commitments as of **
 
 {% include governance-cluster-return.html %}
 
-Legal Name: Troy Daniel Will (initials TDW)
