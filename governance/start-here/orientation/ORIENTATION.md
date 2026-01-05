@@ -1,3 +1,7 @@
+
+{% include governance-return.html %}
+{% include breadcrumbs.html %}
+
 # ORIENTATION
 
 ## Cold‑Start Protocol for Any Assistant Interacting With Troy
