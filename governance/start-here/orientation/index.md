@@ -74,7 +74,7 @@ This site exists to ensure:
 
 **Read this first:**
 
-[Master Constraints Manifest](/orientation/manifest/)
+[Master Constraints Manifest](/governance/start-here/orientation/manifest/)
 
 If you do not have a separate page yet, read the Manifest embedded on this Orientation page before continuing.
 
