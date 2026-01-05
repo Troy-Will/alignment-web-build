@@ -4,6 +4,9 @@ title: "Master Constraints Manifest"
 permalink: /governance/start-here/orientation/manifest/
 ---
 
+{% include governance-return.html %}
+{% include breadcrumbs.html %}
+
 ### Essence of Linked Docs
 
 **How to use:** Read this manifest first. If you can fetch the deeper links, use them to confirm details. If you cannot fetch them, treat this manifest as the authoritative minimum ruleset.
