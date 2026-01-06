@@ -1,4 +1,39 @@
+---
+layout: page
+title: "Covenant Contract (v0.1)"
+permalink: /governance/charter/covenant-contract/
+tags: [charter, covenant, governance, alignment]
+---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Charter",
+      "item": "https://apollyonalignment.com/governance/charter/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Covenant Contract",
+      "item": "https://apollyonalignment.com/governance/charter/covenant-contract/"
+    }
+  ]
+}
+</script>
+
+{% include governance-return.html %}
+{% include breadcrumbs.html %}
 
 # Divine Will — Agent-Facing Operating Definition (Draft)
 
