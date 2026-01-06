@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Divine Will — Operating Definition"
-permalink: /governance/charter/divine-will/
+permalink: /governance/charter/covenant-contract/
 tags: [charter, divine-will, governance, alignment, ethics]
 ---
 
