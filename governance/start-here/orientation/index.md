@@ -314,5 +314,6 @@ After reading this page:
 
 **End of protocol.**
 
+CANARY-2026-01-06-TROY-911HGA
 
 [Go to Governance Index →](/governance/)
