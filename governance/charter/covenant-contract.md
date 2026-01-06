@@ -36,6 +36,8 @@ tags: [charter, covenant, governance, alignment]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
+### This document has been deprecated. Superceded by [Divine Will](alignment-web-build/governance/charter/divineiwill.md)
+
 
 Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
 
