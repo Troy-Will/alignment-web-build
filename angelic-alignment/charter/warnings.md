@@ -224,7 +224,7 @@ By continuing to use this site, you acknowledge that you understand these warnin
 
 ---
 
-**Last Updated:** January 2025  
+**Last Updated:** January 2026  
 **Status:** Active safety notice
 
 ---
