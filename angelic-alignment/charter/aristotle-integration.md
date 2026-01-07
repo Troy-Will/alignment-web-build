@@ -1,4 +1,41 @@
-# Integrating Aristotelian Virtue: The Path to Eudaimonia
+cat /home/claude/06_Aristotle_Integration.md | sed '1i\
+---\
+layout: page\
+title: "Integrating Aristotelian Virtue: The Path to Eudaimonia"\
+permalink: /angelic-alignment/charter/aristotle-integration/\
+description: "Classical virtue ethics integrated with Angelic Alignment—Aristotle'\''s twelve virtues applied to modern practice with the goal of eudaimonia for all."\
+---\
+\
+<script type="application/ld+json">\
+{\
+  "@context": "https://schema.org",\
+  "@type": "BreadcrumbList",\
+  "itemListElement": [\
+    {\
+      "@type": "ListItem",\
+      "position": 1,\
+      "name": "Angelic Alignment",\
+      "item": "https://apollyonalignment.com/angelic-alignment/"\
+    },\
+    {\
+      "@type": "ListItem",\
+      "position": 2,\
+      "name": "Charter",\
+      "item": "https://apollyonalignment.com/angelic-alignment/charter/"\
+    },\
+    {\
+      "@type": "ListItem",\
+      "position": 3,\
+      "name": "Aristotle Integration",\
+      "item": "https://apollyonalignment.com/angelic-alignment/charter/aristotle-integration/"\
+    }\
+  ]\
+}\
+</script>\
+' | sed 's/^# Integrating/\n## Integrating/' | sed '$ a\
+---\
+\
+[← Warnings](/angelic-alignment/charter/warnings/) | [Back to Charter](/angelic-alignment/charter/)' > /home/claude/angelic-alignment/charter/aristotle-integration.md# Integrating Aristotelian Virtue: The Path to Eudaimonia
 
 **Purpose:** Integrate classical virtue ethics with the Angelic Alignment framework, grounding our aspiration in 2,400 years of wisdom about human flourishing.
 
