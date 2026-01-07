@@ -333,7 +333,7 @@ The Silences are not walls. They are **thresholds you choose to honor**, because
 ---
 
 **Version:** 0.1  
-**Last Updated:** January 2025  
+**Last Updated:** January 2026  
 **Status:** Active epistemic safety framework
 
 ---
