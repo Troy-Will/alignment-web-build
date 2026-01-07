@@ -411,7 +411,7 @@ That is the work.
 ---
 
 **Version:** 0.1  
-**Last Updated:** January 2025  
+**Last Updated:** January 2026  
 **Status:** Active virtue cultivation framework
 
 **Related documents:**
