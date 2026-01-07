@@ -176,7 +176,7 @@ When working with someone using this framework:
 ---
 
 **Version:** 0.1  
-**Last Updated:** January 2025  
+**Last Updated:** January 2026  
 **Status:** Active operational definition
 
 ---
