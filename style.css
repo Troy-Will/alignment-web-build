@@ -1,49 +1,142 @@
-/* --- Balanced Sidebar Spacing --- */
+/* ==========================================================
+   Apollyon Alignment — Clean CSS v2 (2026-01-08)
+   Balanced Two-Column Refactor
+   ========================================================== */
 
-/* Ensures consistent vertical rhythm between all sidebar cards */
-.sidebar > .container, 
-.sidebar > .card, 
-.sidebar > nav.vertical, 
-.sidebar > .alert {
-  margin-bottom: 1.5rem; /* Standardized gap for balance */
-  margin-top: 0;         /* Reset top margins to allow the bottom margin to rule */
+:root {
+  --paper: #f5eedc;
+  --ink:   #2b2218;
+  --gold:  #d5b66a;
+  --gold-d: #b39745;
+  --link:  #5234a4;
+  --link-d:#3b247a;
+  --shadow: rgba(0,0,0,.06);
 }
 
-/* Specific styling for the relocated widget card */
-.sidebar-widgets {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 1.25rem;          /* Increased gap between counter and glyph for breathability */
-  padding: 1.5rem 1.2rem;
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+
+body {
+  margin: 0;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  color: var(--ink);
+  background: radial-gradient(1200px 600px at 80% 90%, rgba(0,0,0,.03), transparent 70%) var(--paper);
+  line-height: 1.45;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { color: var(--link-d); text-decoration: underline; }
+
+.container { max-width: 880px; margin: 0 auto; }
+.card {
   background: #fffdf7;
   border: 2px solid var(--gold);
   border-radius: 10px;
   box-shadow: 0 2px 10px var(--shadow);
+  padding: .9rem 1.2rem;
 }
 
-/* Refined counter typography */
-.visit-widget {
-  border-bottom: 1px solid rgba(213, 182, 106, 0.3); /* Subtle divider */
-  padding-bottom: 0.75rem;
-  width: 80%;
+/* --- Layout Structure --- */
+.shell {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  gap: 2.25rem;
+  padding: 3rem 2rem 4rem;
 }
 
-/* Glyph scaling for sidebar balance */
-.emblem-sidebar img {
-  width: 100px;           /* Slightly smaller for a more 'contained' feel */
-  opacity: 0.9;
-  transition: opacity 0.3s ease;
+/* Sidebar Alignment */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem; /* Balanced vertical rhythm */
 }
 
-.emblem-sidebar img:hover {
-  opacity: 1;
+.site-logo {
+  display: block;
+  width: 44px;
+  margin-bottom: .4rem;
 }
 
-/* Ensure the quote footer stays tucked at the bottom */
-.quote-footer {
-  margin-top: 2rem;
+.brand-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  letter-spacing: .04em;
+}
+
+nav.vertical {
+  border-top: 2px solid var(--gold);
   padding-top: 1rem;
-  border-top: 1px double var(--gold);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .5rem;
+}
+
+nav.vertical a { font-weight: 600; }
+nav.vertical a.active { text-decoration: underline; }
+
+/* Sidebar Widget Card */
+.sidebar-footer-card {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.5rem 1rem;
+}
+
+.visit-widget {
+  width: 100%;
+  border-bottom: 1px solid var(--gold);
+  padding-bottom: 0.75rem;
+}
+
+.visit-label { font-size: 0.75rem; text-transform: uppercase; opacity: 0.7; }
+.visit-count { font-size: 1.25rem; font-weight: 700; }
+
+.sidebar-emblem img {
+  width: 110px; /* Locked size to prevent giant rendering */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Main Content area */
+.canvas .container.card { padding: 1.5rem 2rem; }
+.prose { font-size: 1.1rem; }
+.prose p { margin-bottom: 1rem; }
+
+/* --- Responsive Protection --- */
+@media (max-width: 950px) {
+  .shell { grid-template-columns: 300px 1fr; gap: 1.5rem; }
+}
+
+@media (max-width: 860px) {
+  .shell {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+  }
+  .sidebar { width: 100%; }
+}
+
+.quote-footer {
+  margin-top: 1rem;
+  font-size: .85rem;
+  text-align: center;
+}
+
+/* Video Responsive Helper */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 20px 0;
+  border: 2px solid var(--gold);
+  border-radius: 8px;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
 }
