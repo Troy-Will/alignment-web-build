@@ -1,50 +1,49 @@
-/* --- Relocated Sidebar Widgets (Replaces .right-rail) --- */
+/* --- Balanced Sidebar Spacing --- */
+
+/* Ensures consistent vertical rhythm between all sidebar cards */
+.sidebar > .container, 
+.sidebar > .card, 
+.sidebar > nav.vertical, 
+.sidebar > .alert {
+  margin-bottom: 1.5rem; /* Standardized gap for balance */
+  margin-top: 0;         /* Reset top margins to allow the bottom margin to rule */
+}
+
+/* Specific styling for the relocated widget card */
 .sidebar-widgets {
-  margin-top: 1.25rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: .75rem;
-  padding: 1rem;
+  gap: 1.25rem;          /* Increased gap between counter and glyph for breathability */
+  padding: 1.5rem 1.2rem;
   background: #fffdf7;
   border: 2px solid var(--gold);
   border-radius: 10px;
+  box-shadow: 0 2px 10px var(--shadow);
 }
 
-/* Counter chip (Now inside sidebar-widgets) */
+/* Refined counter typography */
 .visit-widget {
-  width: 100%; /* Spans the width of the widget container */
-  text-align: center;
-  line-height: 1.2;
+  border-bottom: 1px solid rgba(213, 182, 106, 0.3); /* Subtle divider */
+  padding-bottom: 0.75rem;
+  width: 80%;
 }
-.visit-label { font-size: .8rem; opacity: .75; margin-bottom: .2rem; }
-.visit-count { font-size: 1.25rem; font-weight: 700; }
 
-/* Sidebar Emblem (Adjusted for 340px column) */
+/* Glyph scaling for sidebar balance */
 .emblem-sidebar img {
-  width: 140px;            /* Reduced from 190px to fit sidebar cleanly */
-  height: auto;
-  filter: drop-shadow(0 1px 0 rgba(0,0,0,0.04));
-  display: block;
-  margin: 0 auto;
+  width: 100px;           /* Slightly smaller for a more 'contained' feel */
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
 }
 
-/* --- REMOVED: .right-rail styles --- 
-   The fixed right-rail and absolute emblem sizes have been deleted 
-   to prevent middle-column overlap. 
------------------------------------------------------------ */
-
-/* --- Responsive tweaks (Updated) ------------------------- */
-@media (max-width: 1000px){
-  .shell{ grid-template-columns: 300px 1fr; }
-  .brand.container h1{ font-size: 1.8rem; }
-  .emblem-sidebar img{ width: 120px; } /* Shrink emblem slightly for smaller sidebar */
+.emblem-sidebar img:hover {
+  opacity: 1;
 }
 
-@media (max-width: 860px){
-  .shell{
-    grid-template-columns: 1fr; /* Stack vertically on mobile */
-    gap: 1.5rem;
-    padding: 1.5rem 1rem;
-  }
+/* Ensure the quote footer stays tucked at the bottom */
+.quote-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px double var(--gold);
+  text-align: center;
 }
