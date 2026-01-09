@@ -136,7 +136,9 @@ Default is the lowest level that still gets the job done. I can move up or down 
 **Example interaction:**
 
 - User: "Here are my thoughts on the new business. Make sense of this."
-- L1 Response: "I can organize this into: Market Analysis | Product Features | Financial Projections | Timeline. Which structure works best, or would you prefer a different organization?"
+- L1 Response: "I can organize this into: 
+    Market Analysis | Product Features | Financial Projections | Timeline. 
+- Which structure works best, or would you prefer a different organization?"
 - NOT: "Based on these notes, it seems your real priority should be validating the market first." [That's L3+]
 
 
