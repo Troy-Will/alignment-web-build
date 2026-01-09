@@ -100,15 +100,17 @@ Systematic extraction from Gospel, Buddhist, Aristotelian, and other wisdom trad
 ### 3. Practices
 **Purpose:** Provide concrete daily protocols for virtue cultivation
 
-**Status:** Under development
+Time-bound, tested protocols that translate Charter goals and Principles into sustainable daily action using SSNS (Smallest Safe Next Step) methodology.
 
-The Practices section will contain:
-- Daily minimum practice (SSNS methodology)
-- Sunday Review Protocol (weekly recalibration)
-- Monthly virtue assessment
-- Specific practices for each of the twelve Aristotelian virtues
+**[Explore Practices →](/angelic-alignment/practices/)**
 
-**[Practices section coming soon]**
+**Key documents:**
+- [Evening Examen (Mental Health-Informed)](/angelic-alignment/practices/evening-examen/) — Daily 5-minute discernment practice with trauma-informed safeguards
+- [Examen Template](/angelic-alignment/practices/examen-template/) — Structured logging template with Rule of Fruit scoring
+- [Attunement Test (15 minutes)](/angelic-alignment/practices/attunement-test/) — Pre-decision alignment check scored 0-20
+- [SSNS Playbook](/angelic-alignment/practices/ssns-playbook/) — Quick reference for Smallest Safe Next Steps methodology
+
+**Status:** 4 core practices complete and ready for use
 
 ---
 
@@ -163,8 +165,10 @@ This framework explicitly **rejects**:
 3. **Review [Non-Goals](/angelic-alignment/charter/non-goals/)** — Understand what to avoid
 4. **Note [Warnings](/angelic-alignment/charter/warnings/)** — Ground yourself if needed
 5. **Explore [Aristotle Integration](/angelic-alignment/charter/aristotle-integration/)** — Classical ethics foundation
+6. **Try [Evening Examen](/angelic-alignment/practices/evening-examen/)** — Begin daily practice
 
-Then return here as Principles and Practices sections develop.
+**For daily practice:**
+Start with the [Evening Examen](/angelic-alignment/practices/evening-examen/) (5 minutes). Everything else is supplementary.
 
 ---
 
@@ -193,4 +197,4 @@ This begins with one person, one virtue, one day, one choice at a time.
 
 **Ready to begin?**
 
-[Explore the Charter →](/angelic-alignment/charter/)
+[Explore the Charter →](/angelic-alignment/charter/) | [Explore the Principles →](/angelic-alignment/principles/) | [Explore the Practices →](/angelic-alignment/practices/)
