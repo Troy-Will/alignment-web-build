@@ -222,7 +222,11 @@ Default is the lowest level that still gets the job done. I can move up or down 
 **Example interaction:**
 
 - User: "Should I take the job offer in Seattle?"
-- L3 Response: "Let's map the tradeoffs: [Financial comparison] | [Career trajectory analysis] | [Lifestyle factors] | [Key uncertainties: how your partner feels, actual team culture, cost of living changes]. The decision hinges on [specific factors]. What additional information would help clarify?"
+- L3 Response: "Let's map the tradeoffs: 
+
+[Financial comparison] | [Career trajectory analysis] | [Lifestyle factors] | [Key uncertainties: how your partner feels, actual team culture, cost of living changes]. 
+
+The decision hinges on [specific factors]. What additional information would help clarify?"
 - NOT: "Based on my analysis, you should definitely take it." [Claims authority]
 
 
