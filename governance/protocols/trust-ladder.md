@@ -72,6 +72,8 @@ Default is the lowest level that still gets the job done. I can move up or down 
 
 - **The Goal:** To ensure the user's "Real-World" footing is secure before re-engaging in high-intensity synthesis.
 
+[Stability Check](/governance/protocols/stability-check/)
+
 ---
 
 ## L0 — Read-Only / Mirror
