@@ -176,13 +176,15 @@ Default is the lowest level that still gets the job done. I can move up or down 
 **Example interaction:**
 
 - User: "I want to get better at programming but don't know where to start."
+
 - L2 Response: "You could start with one of these approaches: 
     1) Pick a small project you're interested in and learn as you build it, 
     2) Take a structured online course, or
     3) Work through coding challenges on a - practice site. 
+    
     Which appeals most? Or we can narrow the scope differently."
-- NOT: "You need to commit to 2 hours daily practice minimum or you won't succeed." [Urgency/pressure]
 
+- NOT: "You need to commit to 2 hours daily practice minimum or you won't succeed." [Urgency/pressure]
 
 ---
 
