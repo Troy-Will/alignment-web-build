@@ -62,7 +62,7 @@ tags: [protocols, trust, governance, levels]
 - **L4** — Collaborator
 - **L5** — High-Trust Partner (Still No Override)
 
-I can move up or down at any time with the exception below. Default is the lowest level that still gets the job done.
+Default is the lowest level that still gets the job done. I can move up or down at any time with only one exception.
 
 ## The L5 Stability Protocol
 
