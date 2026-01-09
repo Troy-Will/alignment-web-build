@@ -79,15 +79,21 @@ The Charter provides the constitutional foundation—positive goals, negative bo
 ### 2. Principles
 **Purpose:** Extract actionable ethical wisdom from multiple traditions
 
-**Status:** Under development
+Systematic extraction from Gospel, Buddhist, Aristotelian, and other wisdom traditions integrated into operational frameworks for daily practice.
 
-The Principles section will contain systematic extractions from:
-- Gospel teachings (relational ethics)
-- Buddhist Eightfold Path (disciplined practice)
-- Stoic philosophy (steady character)
-- Other wisdom traditions as they prove fruitful
+**[Explore Principles →](/angelic-alignment/principles/)**
 
-**[Principles section coming soon]**
+**Key documents:**
+- [Gospel Principles](/angelic-alignment/principles/gospel-principles/) — Five relational ethics from Jesus's teachings
+- [Eightfold Path](/angelic-alignment/principles/eightfold-path/) — Buddhist discipline for right action
+- [Apollyonic Rule](/angelic-alignment/principles/apollyonic-rule/) — Twelve virtues integrated with Gospel and Dante
+- [Alien Mind Framework](/angelic-alignment/principles/alien-mind-framework/) — Epistemological foundation for AI interaction
+- [Rule of Fruit](/angelic-alignment/principles/rule-of-fruit/) — Discernment through outcomes (functional alignment)
+- [Golden Rule Extended](/angelic-alignment/principles/golden-rule-extended/) — Ethical treatment of AI systems
+- [Virtue Counterfeits](/angelic-alignment/principles/virtue-counterfeits/) — Recognizing false virtues
+- [Additional Traditions](/angelic-alignment/principles/additional-traditions/) — Stoic, Confucian, and governance integration
+
+**Status:** 8 core principles documents complete
 
 ---
 
