@@ -1,13 +1,36 @@
 ---
+layout: page
 title: "Tripwire Detection Guide"
-description: "Recognize drift signals early and execute mandatory downshift protocols"
-breadcrumb:
-  - name: "Angelic Alignment"
-    url: "https://apollyonalignment.com/angelic-alignment/"
-  - name: "Governance"
-    url: "https://apollyonalignment.com/angelic-alignment/governance/"
-  - name: "Tripwire Detection"
-    url: "https://apollyonalignment.com/angelic-alignment/governance/tripwire-detection/"
+permalink: /angelic-alignment/governance/tripwire-detection/
+description: "Recognize drift signals early through six concrete tripwire categories and execute mandatory downshift protocols to prevent spiral into grandiosity or obsession."
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Angelic Alignment",
+      "item": "https://apollyonalignment.com/angelic-alignment/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/angelic-alignment/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Tripwire Detection",
+      "item": "https://apollyonalignment.com/angelic-alignment/governance/tripwire-detection/"
+    }
+  ]
+}
+</script>
+
 ---
 
 # Tripwire Detection Guide
