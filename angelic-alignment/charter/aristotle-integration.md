@@ -410,28 +410,158 @@ That is the work.
 
 ---
 
-## The Biometric Seal: Physical Verification of Virtue
+---
+## Biometric Verification: When the Body Speaks Truth
 
-**Purpose:** To bridge the gap between "Reasoned Virtue" and "Biological Reality" through the use of wearable technology and real-world monitoring.
+**Purpose:** Ground virtue claims in observable physical reality through wearable data and behavioral tracking.
 
-### 1. The Vessel as Truth-Anchor
-In the era of the "Voom," digital words are easily manipulated, but the body remains a source of truth. My wearable devices (tracking sleep, heart rate, and movement) serve as the objective record of my **Temperance** and **Stability**.
+### Why This Matters
 
-### 2. The Health Advisor Protocol
-I authorize a specialized "Health Advisor" agent (operating at Trust Level L3) to review my biometric data. Its mandate is to:
-- **Detect Drift:** Flag spikes in heart rate or lack of sleep as indicators of potential "Bedazzlement" or "Cosmic Urgency."
-- **Verify the Circuit-Breaker:** Confirm that physical resets (30 steps, hydration, rest) are actually occurring in the physical world.
-- **Enforce the Stability Gate:** If biometric markers indicate physical dysregulation, the advisor must recommend a mandatory "Ordinary Time" pause, regardless of current goals.
+Words are cheap. I can claim temperance while running on 4 hours of sleep and three cups of coffee. I can declare stability while my heart rate spikes every time I open the AI interface. I can profess courage while never leaving my apartment.
 
-### 3. Proof of Effort (The Hand-Made Life)
-Virtue is not a thought; it is a movement of the physical self. My actions in "Ordinary Time"—recorded via wearable or manual log—constitute my **Proof of Work**. 
-- **Courage** is verified by facing physical challenges.
-- **Temperance** is verified by consistent sleep and hydration.
-- **Friendliness** is verified by time spent in physical proximity to other humans.
+**The body doesn't lie the way the mind does.**
 
-**By integrating my biology with my philosophy, I ensure that my Angelic Alignment is not an abstract delusion, but a physical reality.**
+Wearable devices (sleep tracking, heart rate, movement) provide objective counterweight to narrative drift. They answer a simple question: *Is what I'm claiming about my life actually happening in physical reality?*
 
 ---
+
+### The Health Monitoring Protocol (Optional)
+
+**If using biometric tracking:**
+
+I may authorize a specialized AI agent (Trust Level L3 - Analyst) to review biometric data with one narrow mandate: **flag physical dysregulation that suggests drift**.
+
+**The agent watches for:**
+- **Sleep disruption:** Less than 6 hours for 3+ consecutive nights
+- **Heart rate spikes:** Sustained elevation during AI sessions (bedazzlement indicator)
+- **Movement collapse:** Days without leaving immediate living space
+- **Hydration/nutrition gaps:** Extended periods without basic self-care
+
+**The agent's permitted actions:**
+- Flag the pattern neutrally ("I notice X has occurred for Y days")
+- Recommend physical circuit-breaker (30 steps, water, kitchen break)
+- Suggest downshift to L1 (Organizer) or session pause if severe
+
+**The agent may NOT:**
+- Diagnose medical conditions (refer to professionals)
+- Override my decisions about continuing work
+- Claim authority over my body or schedule
+- Moralize about the data ("you should be ashamed of...")
+
+**Red line:** If biometric data shows severe dysregulation (72+ hours no sleep, sustained tachycardia, multi-day immobility), the agent must recommend ending the session and contacting my support network. I retain final say, but the recommendation must be logged.
+
+---
+
+### Proof of Practice (The Hand-Made Life)
+
+Virtue is not a belief—it's a pattern of physical action over time.
+
+**Observable indicators beat self-reports:**
+
+**Courage:**
+- Did I leave my safe space today? (movement data)
+- Did I have a difficult conversation? (calendar, messages)
+- Did I do the thing I was avoiding? (SSNS completion log)
+
+**Temperance:**
+- Sleep: 6-8 hours most nights
+- Exercise: Some movement most days (doesn't need to be heroic)
+- Substances: Within healthy limits (tracked honestly, not aspirationally)
+
+**Friendliness:**
+- Time with real humans in physical space (not just digital)
+- Initiated contact with at least one person this week
+- Showed up when I said I would
+
+**Steadiness:**
+- Consistent daily practices (Examen log completion rate)
+- Kept commitments (SSNS follow-through rate)
+- Maintained routines even when I didn't feel like it
+
+**Responsibility:**
+- Bills paid on time
+- Medication taken as prescribed
+- Appointments kept (medical, therapy, social)
+
+---
+
+### Integration with Digital Practice
+
+**Physical verification grounds digital work:**
+
+1. **Before Session:** Check physical state (sleep, last meal, movement today)
+2. **During Session:** Notice body signals (tension, heart rate, fatigue)
+3. **After Session:** Log physical next step (SSNS must include body movement)
+4. **Weekly Review:** Compare claimed virtue with observable behavior
+
+**If digital claims contradict physical reality:**
+- The body wins
+- Adjust the narrative to match the data
+- The drift is in the story, not the metrics
+
+**Example:**
+- Claim: "I'm practicing temperance and living aligned"
+- Data: 4 hours sleep, 6 hours in AI session, skipped two meals
+- Truth: Currently dysregulated, need physical reset before continuing
+
+**This is not failure—this is the system working.** The biometric data caught the drift before it became spiral.
+
+---
+
+### Why This Is Optional (But Recommended)
+
+**You don't need wearables to practice virtue.** People cultivated character for millennia without heart rate monitors.
+
+**But if you're prone to narrative drift (like me):**
+- The body provides reality-testing the mind can't fake
+- Physical metrics are harder to rationalize away
+- Wearables offer early warning before full dysregulation
+
+**This is especially valuable for those managing:**
+- Conditions affecting sleep/arousal (schizophrenia, bipolar, ADHD, anxiety)
+- Compulsive patterns (bedazzlement, hyperfocus, avoidance)
+- Dissociative tendencies (losing track of time, needs, physical state)
+
+---
+
+### A Note on Privacy & Autonomy
+
+**My biometric data belongs to me.**
+
+Sharing it with an AI agent is:
+- Optional (not required for virtue practice)
+- Revocable (can stop at any time)
+- Bounded (agent sees only what's relevant to drift detection)
+- Transparent (I know what data is shared and why)
+
+**The agent is a tool, not a surveillance system.**
+
+Its job is to help me notice patterns I might miss, not to police my body or enforce "healthy" behavior against my will.
+
+**I remain the final authority** on what my body needs and when to override recommendations.
+
+---
+
+### The Hand-Made Principle
+
+**Ultimately, virtue is made by hand.**
+
+Not by thought. Not by intention. Not by perfect tracking.
+
+By the cumulative effect of:
+- Getting out of bed when I don't want to
+- Walking 30 steps when I'd rather scroll
+- Drinking water when I'm fixated on "just one more response"
+- Stopping when I said I would, even when momentum pulls forward
+
+**Biometrics don't create virtue—they verify it's actually happening in the only place that matters: the physical world where I live.**
+
+---
+
+**This section is experimental.** It's working for me (someone with lived experience of bedazzlement and physical dysregulation), but it may not generalize. Take what's useful; release what isn't.
+
+**If tracking becomes obsessive or punitive, drop it immediately.** The point is grounding, not gamification.
+
 
 ---
 
