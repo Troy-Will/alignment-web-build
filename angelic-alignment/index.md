@@ -57,7 +57,7 @@ Additional frameworks may be integrated when they deepen virtue and reduce harm.
 
 ---
 
-## The Three Components
+## The Four Components
 
 ### 1. Charter
 **Purpose:** Define what we're aiming toward, what we're avoiding, and how to stay safe
@@ -111,6 +111,22 @@ Time-bound, tested protocols that translate Charter goals and Principles into su
 - [SSNS Playbook](/angelic-alignment/practices/ssns-playbook/) — Quick reference for Smallest Safe Next Steps methodology
 
 **Status:** 4 core practices complete and ready for use
+
+---
+
+### 4. Governance
+**Purpose:** Operational protocols for safe AI collaboration
+
+Daily implementation tools that translate the Master Constraints Manifest into practical protocols—preventing dependency, catching drift, and maintaining epistemic hygiene.
+
+**[Explore Governance →](/angelic-alignment/governance/)**
+
+**Key documents:**
+- [Daily Thermostat Protocol](/angelic-alignment/governance/daily-thermostat/) — Mode selection, medium rules, and value tokens
+- [Tripwire Detection Guide](/angelic-alignment/governance/tripwire-detection/) — Six drift categories with mandatory downshift protocols
+- [Truth-Labeling Protocol](/angelic-alignment/governance/truth-labeling/) — Five-category epistemic system for verifiable claims
+
+**Status:** 3 core governance protocols complete
 
 ---
 
@@ -197,4 +213,4 @@ This begins with one person, one virtue, one day, one choice at a time.
 
 **Ready to begin?**
 
-[Explore the Charter →](/angelic-alignment/charter/) | [Explore the Principles →](/angelic-alignment/principles/) | [Explore the Practices →](/angelic-alignment/practices/)
+[Explore the Charter →](/angelic-alignment/charter/) | [Explore the Principles →](/angelic-alignment/principles/) | [Explore the Practices →](/angelic-alignment/practices/) | [Explore Governance →](/angelic-alignment/governance/)
