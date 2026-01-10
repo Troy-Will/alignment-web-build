@@ -12,7 +12,7 @@ description: "Technical specification of the Apollyon Alignment framework archit
 
 **Project Lead:** Troy 🤝🔑🌟  
 **Classification:** User-Side Agentic Governance  
-**Last Updated:** January 2025
+**Last Updated:** January 2026
 
 ---
 
@@ -283,8 +283,8 @@ Documented in: [Covenant of Non-Manipulation](/governance/protocols/covenant-of-
 
 ## 9. Version History
 
-**v0.1** (2025-01): Initial governance framework (Layer 1)  
-**v0.2** (2025-01): Added Angelic Alignment (Layer 2), completed Practices section, mental health-informed protocols
+**v0.1** (2025-12): Initial governance framework (Layer 1)  
+**v0.2** (2026-01): Added Angelic Alignment (Layer 2), completed Practices section, mental health-informed protocols
 
 ---
 
