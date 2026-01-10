@@ -1,13 +1,36 @@
 ---
+layout: page
 title: "Daily Thermostat Protocol"
-description: "Protect cognitive autonomy through mode selection, medium rules, and mandatory value tokens"
-breadcrumb:
-  - name: "Angelic Alignment"
-    url: "https://apollyonalignment.com/angelic-alignment/"
-  - name: "Governance"
-    url: "https://apollyonalignment.com/angelic-alignment/governance/"
-  - name: "Daily Thermostat"
-    url: "https://apollyonalignment.com/angelic-alignment/governance/daily-thermostat/"
+permalink: /angelic-alignment/governance/daily-thermostat/
+description: "Protect cognitive autonomy through mode selection, medium rules, and mandatory value tokens—training durable human cognition while using AI as acceleration, not replacement."
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Angelic Alignment",
+      "item": "https://apollyonalignment.com/angelic-alignment/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/angelic-alignment/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Daily Thermostat",
+      "item": "https://apollyonalignment.com/angelic-alignment/governance/daily-thermostat/"
+    }
+  ]
+}
+</script>
+
 ---
 
 # Daily Thermostat Protocol
