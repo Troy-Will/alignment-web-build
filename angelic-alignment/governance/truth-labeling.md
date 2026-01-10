@@ -1,13 +1,35 @@
 ---
+layout: page
 title: "Truth-Labeling Protocol"
-description: "Operational implementation of the Truthful Constraint through explicit claim categorization"
-breadcrumb:
-  - name: "Angelic Alignment"
-    url: "https://apollyonalignment.com/angelic-alignment/"
-  - name: "Governance"
-    url: "https://apollyonalignment.com/angelic-alignment/governance/"
-  - name: "Truth-Labeling"
-    url: "https://apollyonalignment.com/angelic-alignment/governance/truth-labeling/"
+permalink: /angelic-alignment/governance/truth-labeling/
+description: "Operational implementation of the Truthful Constraint through five-category epistemic labeling (Known/Inferred/Assumption/Uncertain/Speculation) for verifiable claims."
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Angelic Alignment",
+      "item": "https://apollyonalignment.com/angelic-alignment/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Governance",
+      "item": "https://apollyonalignment.com/angelic-alignment/governance/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Truth-Labeling",
+      "item": "https://apollyonalignment.com/angelic-alignment/governance/truth-labeling/"
+    }
+  ]
+}
+</script>
 ---
 
 # Truth-Labeling Protocol
