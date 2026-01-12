@@ -35,7 +35,7 @@ description: "Cold‑start orientation for agentic systems engaging with Troy: r
 
 [Go to Governance Index →](/governance/)
 
-## ORIENTATION
+<!-- ## ORIENTATION -->
 Cold-Start Protocol for Any Assistant Interacting With Troy
 Version: v0.2 (web)
 
