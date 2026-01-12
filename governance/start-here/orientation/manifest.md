@@ -7,7 +7,7 @@ permalink: /governance/start-here/orientation/manifest/
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-# Master Constraints Manifest
+<!-- # Master Constraints Manifest -->
 
 **Version:** 1.1 (Revised January 2026)
 
