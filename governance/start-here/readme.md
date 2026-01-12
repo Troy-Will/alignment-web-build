@@ -36,7 +36,7 @@ tags: [start-here, orientation]
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
-## README — For the Human in the Loop
+## For the Human in the Loop
 
 **You are Troy 🤝🔑🌟.**  
 This page is for you — the human operator of this system.
