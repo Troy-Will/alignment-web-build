@@ -33,7 +33,7 @@ description: "Classical virtue ethics integrated with Angelic Alignment—Aristo
 </script>
 
 
-## Integrating Aristotelian Virtue: The Path to Eudaimonia
+<!-- ## Integrating Aristotelian Virtue: The Path to Eudaimonia -->
 
 **Purpose:** Integrate classical virtue ethics with the Angelic Alignment framework, grounding our aspiration in 2,400 years of wisdom about human flourishing.
 
