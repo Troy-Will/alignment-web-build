@@ -283,7 +283,7 @@ When someone shares an Attunement Test with you:
 ---
 
 **Version:** 0.1  
-**Created:** January 2025  
+**Created:** January 2026  
 **Status:** Active practice, tested personally
 
 ---
