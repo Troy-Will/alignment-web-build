@@ -237,7 +237,7 @@ When someone is planning or executing an SSNS:
 ---
 
 **Version:** 0.1  
-**Created:** January 2025  
+**Created:** January 2026  
 **Status:** Active playbook
 
 ---
