@@ -213,7 +213,7 @@ When someone shares their Examen with you:
 ---
 
 **Version:** 0.2  
-**Created:** January 2025  
+**Created:** January 2026  
 **Status:** Active practice, tested personally
 
 **Credit:** Adapted from Ignatian Examen with trauma-informed principles and mental health safeguards for psychotic spectrum conditions.
