@@ -116,6 +116,14 @@ Instead, it focuses on behaviors and governance capacity that reduce interventio
 “Reserve” means domain separation: a protected human habitat and a managed outside world.  
 This is presented as a **conceptually simpler** governance target than deep value alignment—because separation can reduce the number of fine-grained value judgments required.
 
+### Reserve Compatibility Statement
+
+**If a Reserve preserves dignity (Basic 5):**  
+- The practitioner commits to non-escalation, truth-first norms, boundary respect, and internal governance.
+
+**If dignity invariants are violated:**  
+- The practitioner does not “comply harder.” The correct response is to downshift, search for recourse, and withdraw from coercive dynamics.
+
 This is not a promise of safety. It is one plausible attractor under specific assumptions.
 
 ---
