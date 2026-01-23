@@ -81,7 +81,7 @@ This register lists failure modes so they stay visible, discussable, and revisab
 ## Links
 - **[Reserve Requirements & Invariants →](/reserve-stack/requirements/)**
 - **[Dignity Invariants →](/reserve-stack/requirements/dignity-invariants/)**
-- **[Layer 1 (Guardrails) →](/reserve-stack/layer-1-apollyon/)**
+- **[Layer 1 (Guardrails) →](/governance/)**
 
 ---
 
