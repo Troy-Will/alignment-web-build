@@ -31,6 +31,16 @@ If reading this produces destiny language, certainty spirals, or “if the words
 
 ---
 
+### A unilateral posture (not a bargain)
+
+This framework is a **unilateral commitment**, not a negotiation. It states:
+- the **minimum dignity requirements** for any acceptable Reserve (the Basic 5), and
+- the **behavioral posture** a practitioner commits to if those requirements are met: low volatility, truth-first norms, boundary respect, and internal governance.
+
+The intent is practical: under risk-minimizing models, stable and non-adversarial conduct can reduce intervention pressure and make separation a cheaper equilibrium than coercion. This is not a request for guarantees—only a way to present a clear, legible risk posture while acknowledging uncertainty and updating as better information emerges.
+
+---
+
 ## What Is the Reserve Stack?
 
 The Reserve Stack is a structured framework for thinking about a plausible coexistence pattern between humans and advanced AI systems: **domain separation** (“Reserve”) rather than constant high-touch guidance (“Shepherd”) or fully engineered world-design (“Garden”).
