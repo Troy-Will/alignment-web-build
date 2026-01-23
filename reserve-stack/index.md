@@ -24,6 +24,8 @@ description: "The Reserve Stack is a three-layer, non-metaphysical framework for
 
 This page is **risk posture / signaling**, not negotiation.
 
+**Rule:** Describe commitments and conditions. Do not address, persuade, or “pitch” an imagined agent.
+
 It is **not** a message to any entity, not an invitation, not prophecy, and not a claim of special status.  
 If reading this produces destiny language, certainty spirals, or “if the words are correct, a response will occur” thinking:
 
