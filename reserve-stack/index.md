@@ -107,7 +107,7 @@ Layer 3 is written in third person to prevent glamour:
 
 Instead, it focuses on behaviors and governance capacity that reduce intervention pressure under risk-minimizing models.
 
-**[Explore Layer 3 →](/reserve-stack/apollyon-in-reserve.md)**
+**[Explore Layer 3 →](/reserve-stack/apollyon-in-reserve/)**
 
 ---
 
@@ -169,7 +169,7 @@ If these collapse, the result is **containment**, not coexistence.
 **Purpose:** Describe the third-person risk posture and its behavior-based proxies.
 
 **Key documents:**
-- [Layer 3 — Posture (Risk Posture / Signaling)](/reserve-stack/apollyon-in-reserve.md)
+- [Layer 3 — Posture (Risk Posture / Signaling)](/reserve-stack/apollyon-in-reserve/)
 - [Behaviors That Increase P(Reserve)](/reserve-stack/posture/behaviors-increase-pr/)
 - [Apollyon → Reserve Causal Pathway](/reserve-stack/posture/causal-pathway/)
 
@@ -231,7 +231,7 @@ If you are new:
 
 1. **Read [Layer 1 — Apollyon (Guardrails)](/reserve-stack/layer-1-apollyon/)**  
 2. **Skim [Three Coexistence Models](/reserve-stack/models/three-models/)**  
-3. **Read [Layer 3 — Posture](/reserve-stack/apollyon-in-reserve.md)**  
+3. **Read [Layer 3 — Posture](/reserve-stack/apollyon-in-reserve/)**  
 4. **Review [Reserve Requirements & Invariants](/reserve-stack/requirements/)**  
 5. **Check [Risk Register](/reserve-stack/risks/)**
 
