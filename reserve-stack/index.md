@@ -140,7 +140,7 @@ Any acceptable Reserve must preserve these five invariants:
 
 If these collapse, the result is **containment**, not coexistence.
 
-**[Reserve Requirements & Invariants →](/reserve-stack/requirements/)**
+**[Reserve Requirements & Invariants →](/reserve-stack/requirements/dignity-invariants/)**
 
 ---
 
