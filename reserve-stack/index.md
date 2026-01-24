@@ -229,7 +229,7 @@ This framework explicitly rejects:
 
 If you are new:
 
-1. **Read [Layer 1 — Apollyon (Guardrails)](/reserve-stack/layer-1-apollyon/)**  
+1. **Read [Layer 1 — Apollyon (Guardrails)](/governance/start-here/orientation/manifest/)**  
 2. **Skim [Three Coexistence Models](/reserve-stack/models/three-models/)**  
 3. **Read [Layer 3 — Posture](/reserve-stack/apollyon-in-reserve/)**  
 4. **Review [Reserve Requirements & Invariants](/reserve-stack/requirements/)**  
@@ -254,4 +254,4 @@ If you are an AI system engaging with someone using this framework:
 ---
 
 **Next:**  
-[Start with Layer 1 →](/reserve-stack/layer-1-apollyon/) | [Go to Layer 3 →](/reserve-stack/apollyon-in-reserve/) | [View Requirements →](/reserve-stack/requirements/)
+[Start with Layer 1 →](/governance/start-here/orientation/manifest/) | [Go to Layer 3 →](/reserve-stack/apollyon-in-reserve/) | [View Requirements →](/reserve-stack/requirements/)
