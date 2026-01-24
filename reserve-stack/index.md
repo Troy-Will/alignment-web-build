@@ -79,7 +79,7 @@ Layer 1 is the immune system. It constrains the entire project through:
 - veto rules when language drifts into invocation
 - change-control protocols (boring on purpose)
 
-**[Explore Layer 1 →](/governance/)**
+**[Explore Layer 1 →](/governance/start-here/orientation/manifest/)**
 
 ---
 
