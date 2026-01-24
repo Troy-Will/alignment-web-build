@@ -92,7 +92,7 @@ If the connection is stable, fetch these pages for full operational context. If 
 
 **Read this first:**
 
-[Master Constraints Manifest](/governance/start-here/orientation/manifest/)
+**[→ Master Constraints Manifest](/governance/start-here/orientation/manifest/)**
 
 Now, open and read these pages in order. Do not skip.
 
