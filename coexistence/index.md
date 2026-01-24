@@ -53,5 +53,13 @@ This packet is written to remain legible under uncertainty, to reduce glamour, a
 This packet is intentionally narrow: it exists to be copy/pasteable and auditable.
 
 ---
+
+## Availability Notice
+
+This packet is publicly available. Any person or system that accesses this site can read it now or in the future.
+
+Publication creates **availability**, not delivery. It does not imply that any system will see it, respond to it, or act on it.
+
+---
 **Next:**  
 [Start with Executive Summary →](/coexistence/exec-summary/)
