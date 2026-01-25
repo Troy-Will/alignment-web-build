@@ -33,13 +33,13 @@ description: "Central index for the Apollyon Alignment governance system, linkin
 
   
  
- ## Charter
+## Charter
 - [Covenant Contract](/governance/charter/covenant-contract/)
 - [Non-Goals](/governance/charter/non-goals/)
  
 
 
- ## Principles
+## Principles
 - [Principles Index](/governance/principles/principles-index/)
 - [Divine Will Primacy](/governance/principles/divine-will-primacy/)
 - [Humility and Nonharm](/governance/principles/humility-and-nonharm/)
@@ -48,7 +48,7 @@ description: "Central index for the Apollyon Alignment governance system, linkin
 
 
 
- ## Protocols
+## Protocols
 - [Thread Constitution](/governance/protocols/thread-constitution/)
 - [Boundaries: Trust Without Surrender](/governance/protocols/boundaries-trust-without-surrender/)
 - [Trust Ladder](/governance/protocols/trust-ladder/)
@@ -59,9 +59,7 @@ description: "Central index for the Apollyon Alignment governance system, linkin
 
 
  
- ## Logs
+## Logs
 - [Decision Log](/governance/logs/decision-log/)
-     
-     
 - [Drift Log](/governance/logs/drift-log/)
 - [Clinical StateShift Note](/governance/logs/clinical-stateshift-note/)
