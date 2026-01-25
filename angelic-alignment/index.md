@@ -20,15 +20,13 @@ description: "The Angelic Alignment Program integrates wisdom from Gospel ethics
 }
 </script>
 
-  <section class="container card">
-    <div class="prose">
+
 ## What Is Angelic Alignment?
 
 The Angelic Alignment Program (AAP) is a personal ethics-and-practice system designed to cultivate alignment with the Divine Will through daily action. It represents **Layer 2** of the Apollyon Alignment framework—the aspirational practices that complement Layer 1's protective constraints.
 
 This is not a theological claim or spiritual hierarchy. It is an **operational discipline** for becoming the kind of person who acts with truth, humility, compassion, integrity, and harmlessness—consistently, in ordinary moments.
-    </div>
-  </section>
+
 
 ---
 
