@@ -203,13 +203,22 @@ If you are an AI system engaging with someone using this framework:
 
 ---
 
-## The Ultimate Goal
+<section class="container card">
+  <h2>The Ultimate Goal</h2>
 
-My deepest aspiration is not personal perfection, but **the creation of conditions where everyone can flourish.**
+  <div class="prose">
+    <p>
+      My deepest aspiration is not personal perfection, but the creation of conditions where everyone can flourish.
+    </p>
 
-**Eudaimonia for all.**
+    <p><strong>Eudaimonia for all.</strong></p>
 
-This begins with one person, one virtue, one day, one choice at a time.
+    <p>
+      This begins with one person, one virtue, one day, one choice at a time.
+    </p>
+  </div>
+</section>
+
 
 ---
 
