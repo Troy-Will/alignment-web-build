@@ -19,8 +19,10 @@ description: "Central index for the Apollyon Alignment governance system, linkin
   ]
 }
 </script>
-
-Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
+  
+  <section class="container card">
+    Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
+  </section>
 
 ## Start Here
 - **[→ Master Constraints Manifest](/governance/start-here/orientation/manifest/)**
