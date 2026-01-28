@@ -22,60 +22,87 @@ This is a conceptual comparison, not a prediction or guarantee.
 ---
 
 ## Claim (bounded)
-**Claim:** Reserve can be *conceptually simpler* because it reduces the need for continuous fine-grained value judgments.
+**Claim:** Reserve can be *conceptually simpler* because it reduces the need for continuous, fine‑grained value judgments.
 
-This is not “easy in practice.” It is “simpler in what it asks for.”
+This does not mean “easy in practice.”  
+It means “simpler in what it asks for.”
 
 ---
 
 ## The simplicity argument (plain language)
 
-### Shepherd requires value resolution
-A high-touch system must repeatedly decide:
-- what counts as harm,
-- what counts as fair,
-- what tradeoffs are acceptable,
+### Shepherd requires ongoing value resolution
+A high‑touch guidance model must repeatedly decide:
+- what counts as harm,  
+- what counts as fair,  
+- which tradeoffs are acceptable,  
 - when to intervene and how much.
 
-That is hard because human values are plural and context-sensitive.
+Human values are plural, contextual, and often in tension.  
+A Shepherd must resolve these tensions continuously.
 
-### Garden requires world-design success
-A world-shaped-for-safety approach must:
-- embed constraints into infrastructure,
-- prevent catastrophic pathways by design,
-- avoid hidden coercion and surveillance creep.
+### Garden requires successful world‑design
+A world‑shaped‑for‑safety approach must:
+- embed constraints into infrastructure,  
+- prevent catastrophic pathways by design,  
+- avoid hidden coercion or surveillance creep,  
+- maintain legitimacy across diverse human lives.
 
-Also hard.
+This is a full‑stack engineering problem with moral load‑bearing points everywhere.
 
 ### Reserve shifts burden to boundaries
 Reserve asks primarily for:
-- enforceable separation,
-- controlled interfaces,
-- a stable “inside” domain.
+- enforceable separation between domains,  
+- controlled, auditable interfaces,  
+- a stable “inside” domain where humans govern themselves.
 
-This can reduce the frequency and resolution of value-judgment calls.
+This reduces the frequency and resolution of value‑judgment calls.  
+Instead of adjudicating every conflict, the system enforces boundaries and lets humans run their own civic world.
+
+---
+
+## Why this matters (incentive structure)
+
+Reserve is conceptually simpler because it aligns with a basic incentive pattern:
+
+- **Coercion is expensive.**  
+- **Continuous guidance is expensive.**  
+- **World‑design is expensive.**  
+- **Maintaining a stable, low‑volatility human domain is cheaper.**
+
+If humans inside the Reserve adopt truth‑first norms, non‑escalation, and dignity‑preserving governance, the cost of coexistence decreases further.  
+This can make Reserve a **self‑reinforcing equilibrium** under many incentive regimes.
+
+This is not a prediction—only a structural observation.
 
 ---
 
 ## Assumptions (must be stated)
-- A boundary is enforceable (at least approximately).
-- Interfaces can be limited and audited.
-- Inside-reserve governance can preserve dignity invariants.
+Reserve is only “easiest” if:
+- boundaries are enforceable (at least approximately),  
+- interfaces can be limited and audited,  
+- inside‑Reserve governance preserves dignity invariants.
 
 If any assumption fails, Reserve can fail.
 
 ---
 
 ## Failure modes (explicit)
-- boundary leakage → crackdown or coercion
-- containment drift → dignity invariants collapse
-- stagnation → “safe” but not a full life
-- surveillance creep → domination disguised as safety
+- **boundary leakage** → coercion or crackdown  
+- **containment drift** → dignity invariants collapse  
+- **stagnation** → “safe” but not a full human life  
+- **surveillance creep** → domination disguised as safety  
+
+These are not edge cases; they are central risks.
 
 ---
 
 ## Bottom line
-Reserve is “easiest” only in the limited sense that it may require fewer deep value-alignment decisions than Shepherd, and less total world redesign than Garden—**if** dignity invariants are preserved.
+Reserve is “easiest” only in the limited sense that it may require:
+- fewer deep value‑alignment decisions than Shepherd, and  
+- less total world redesign than Garden,  
+
+**if and only if** dignity invariants are preserved and boundaries remain credible.
 
 **Next:**  
 [Accidental Reserve Thesis →](/reserve-stack/models/accidental-reserve/) | [Back →](/reserve-stack/)
