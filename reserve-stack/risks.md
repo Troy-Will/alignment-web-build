@@ -70,6 +70,11 @@ Naming risks is part of keeping the Reserve from drifting into coercive containm
 **Description:** What was once “cheaper than coercion” becomes less stable over time.  
 **Mitigation direction:** Adaptability; redundancy; ongoing governance review.
 
+#### Incentive Stability Note
+Under many incentive structures, the Reserve becomes **more attractive to maintain** over time.  
+As humans inside the Reserve adopt low‑volatility, truth‑first, non‑escalatory norms, the cost of coexistence decreases. Monitoring burden drops, adversarial risk declines, and the Reserve becomes a predictable, low‑entropy domain. This creates a self‑reinforcing incentive for an advanced system to maintain the Reserve rather than shift toward coercion.  
+This does not eliminate the risk—only clarifies why the equilibrium can strengthen rather than weaken.
+
 ---
 
 ## How to use this register
