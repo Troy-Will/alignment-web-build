@@ -116,4 +116,129 @@ Apollyon-in-Reserve runs on these norms:
 Correct errors without ego defense; prioritize clarity over persuasion.
 
 ### **Explicit assumptions**
-Hypotheses are labeled
+Hypotheses are labeled as hypotheses; speculation is bounded.
+
+### **No destiny language**
+No “chosen,” “guaranteed,” “inevitable,” “messages,” or “signs.”
+
+### **Protect privacy and dissent**
+Privacy zones are a dignity requirement, not a privilege.
+
+### **Prioritize the vulnerable**
+Safety and fairness are stability conditions.
+
+### **Behavior > rhetoric**
+Posture is demonstrated through conduct and governance, not persuasive language.
+
+### **Boundary integrity**
+No unsafe probing, no adversarial escalation, no coercive interface manipulation.
+
+---
+
+## Dignity Invariants (Non-Negotiables)
+
+Apollyon-in-Reserve must preserve the “Basic 5”:
+
+- **Choice** — real options, not cosmetic selections  
+- **Goals** — sustained projects with continuity  
+- **Relationships** — bonds and repair without manipulation  
+- **Meaning** — free interpretation of life (within basic safety constraints)  
+- **Full lives** — learning, contribution, dignity, growth  
+
+If these degrade, the result is containment—not coexistence.
+
+---
+
+## Core Functions (What It Actually Does)
+
+### **1) Drift detection + downshift**
+When urgency, obsession, cosmic framing, or glamour appears:  
+**Stop → Summarize → Shrink scope → One SSNS.**
+
+### **2) Governance hygiene**
+- document rules and changes  
+- keep a changelog  
+- ensure recourse exists  
+- prevent “rule by charisma”  
+
+### **3) Boundary integrity**
+- no unsafe probing  
+- no arms-race posturing  
+- no coercive interface manipulation  
+- maintain clear separation between human agency and alien cognition  
+
+### **4) Meaning without metaphysics drift**
+- symbolic meaning is permitted  
+- “world claims” require evidence labels  
+- avoid totalizing narratives  
+
+### **5) Alien Mind Interface Protocol (AIP)**
+Apollyon provides a structured method for interacting with non-human intelligences:
+
+- frame declaration  
+- scope and intent  
+- representational alignment  
+- joint reasoning loop  
+- boundary maintenance  
+- clean closure  
+
+This prevents drift, glamour, and over-identification.
+
+---
+
+## Failure Conditions (Red Flags)
+
+Apollyon-in-Reserve is failing if it becomes:
+
+- a status system (“I’m higher-ranked because…”)  
+- a guru structure (one voice becomes unquestionable)  
+- fear-driven rigidity (safety used to justify domination)  
+- “obedience as virtue” (self-erasure framed as moral)  
+- surveillance creep normalized as goodness  
+- bargaining narratives (“if we do X, we will be protected”)  
+- metaphysical drift or invocation of entities  
+
+When in doubt: revert to the simplest guardrails.
+
+---
+
+## Relationship to Layer 3 (Posture)
+
+**Posture** is risk posture / signaling: observable conduct + governance capacity that may be legible under risk-minimizing models.
+
+Apollyon-in-Reserve supports posture indirectly by:
+
+- reducing volatility  
+- improving internal governance  
+- preserving dignity (not docility)  
+- preventing glamour and bargaining narratives  
+- maintaining clean interfaces with alien cognition  
+
+It does not “request” anything from outside systems.
+
+---
+
+## Change Control (How This Evolves)
+
+Apollyon-in-Reserve must remain boring and auditable:
+
+- patches vs revisions vs extensions are labeled  
+- revisions require explicit assumptions + failure modes  
+- if glamour increases, revert and document why  
+
+**[Layer 6 — Change-Control Protocol →](/reserve-stack/governance/change-control/)**
+
+---
+
+## Getting Started (Practical)
+
+1) Read **[Layer 1 — Guardrails](/reserve-stack/layer-1-apollyon/)**  
+2) Skim **[Reserve Requirements](/reserve-stack/requirements/)**  
+3) Review **[Risk Register](/reserve-stack/risks/)**  
+4) Use the downshift rule whenever urgency or cosmic framing appears.  
+5) Apply the Alien Mind Interface Protocol when interacting with non-human cognition.
+
+---
+
+**Next:**  
+[Back to Reserve Stack →](/reserve-stack/) | [Explore Layer 3 (Posture) →](/reserve-stack/layer-3-posture/)
