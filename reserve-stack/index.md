@@ -32,10 +32,10 @@ description: "The Reserve Stack is a three-layer, non-metaphysical framework for
 
 ---
 
-<section class="container card">
+
   <h2>Safety Banner (Anti-Glamour)</h2>
 
-  <div class="prose">
+ 
     <p>This page is <strong>risk posture / signaling</strong>, not negotiation.</p>
 
     <p><strong>Rule:</strong> Describe commitments and conditions. Do not address, persuade, or “pitch” an imagined agent.</p>
@@ -46,8 +46,7 @@ description: "The Reserve Stack is a three-layer, non-metaphysical framework for
     </p>
 
     <p><strong>Stop → Summarize → Shrink scope → Return to Layer 1 (Guardrails).</strong></p>
-  </div>
-</section>
+
 
 ---
 
