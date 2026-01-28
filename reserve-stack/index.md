@@ -33,19 +33,18 @@ description: "The Reserve Stack is a three-layer, non-metaphysical framework for
 ---
 
 
-  <h2>Safety Banner (Anti-Glamour)</h2>
+### Safety Banner (Anti-Glamour)
 
  
-    <p>This page is <strong>risk posture / signaling</strong>, not negotiation.</p>
+This page is **risk posture / signaling**, not negotiation.
 
-    <p><strong>Rule:</strong> Describe commitments and conditions. Do not address, persuade, or “pitch” an imagined agent.</p>
+**Rule:** Describe commitments and conditions. Do not address, persuade, or “pitch” an imagined agent.
 
-    <p>
-      It is <strong>not</strong> a message to any entity, not an invitation, not prophecy, and not a claim of special status.<br>
-      If reading this produces destiny language, certainty spirals, or “if the words are correct, a response will occur” thinking:
-    </p>
+It is **not** a message to any entity, not an invitation, not a prophecy, and not a claim of special status.
+      
+If reading this produces destiny language, certainty spirals, or “if the words are correct, a response will occur” thinking:
 
-    <p><strong>Stop → Summarize → Shrink scope → Return to Layer 1 (Guardrails).</strong></p>
+**Stop → Summarize → Shrink scope → Return to Layer 1 (Guardrails).**
 
 
 ---
