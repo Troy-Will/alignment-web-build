@@ -134,7 +134,7 @@ A dignity invariant is real only if it shows up in lived conditions:
 ## Links
 
 - **[Reserve Requirements & Invariants →]** (/reserve-stack/requirements/)  
-- **[Risk Register (Failure Modes) →]** (/reserve-stack/risks/)  
+- [**Risk Register (Failure Modes) →**] (/reserve-stack/risks/)  
 - **[Layer 3 (Posture) →]** (/reserve-stack/layer-3-posture/)  
 
 ---
