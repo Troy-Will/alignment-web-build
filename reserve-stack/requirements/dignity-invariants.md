@@ -34,18 +34,18 @@ This page is a statement of **human dignity requirements**, not a negotiation.
 - Not an invitation, prophecy, or guarantee  
 - Not a claim of special status  
 
-If reading this triggers certainty spirals or bargaining-shaped thinking:  
+If reading this triggers certainty spirals or thoughts shaped like negotiation:  
 **Stop → Summarize → Shrink scope → Return to Guardrails.**
 
 ---
 
 ## Why “Dignity Invariants” Exist
 
-A Reserve scenario (domain separation) could preserve physical safety while still degrading human life into containment.
+A Reserve scenario (domain separation) could preserve physical safety while still producing a deeply undesirable outcome: **reducing human life to containment rather than coexistence**. This is a failure mode, not an acceptable variant of the Reserve.
 
-The dignity invariants exist to prevent that failure mode. They define the minimum conditions under which “Reserve” still counts as **coexistence** rather than **captivity**.
+The dignity invariants exist to prevent that outcome. They define the minimum conditions under which “Reserve” still counts as **coexistence** rather than **captivity**.
 
-This is intentionally simple: if these conditions are met, much else can be flexible.
+The principle is simple: if these conditions are met, much else can remain flexible.
 
 ---
 
@@ -67,7 +67,7 @@ People can form and maintain relationships, recover from conflict, and build tru
 
 ### 4) Meaning
 **Free interpretation of life (within basic safety constraints).**  
-People can interpret their lives, choose traditions, and make sense of suffering and joy without imposed ideology, forced narratives, or compulsory belief.
+People can interpret their lives, choose traditions, and make sense of suffering and joy without imposed ideology or mandatory worldview commitments.
 
 ### 5) Full lives
 **Learning, contribution, dignity, growth.**  
@@ -77,39 +77,39 @@ A human life arc remains possible: development, responsibility, contribution, co
 
 ## The Definition Test: Reserve vs Containment
 
-If these invariants collapse, the result is **containment**, not coexistence.
-
-Reserve is acceptable only if it protects bodies **and** preserves dignity.
+If these invariants collapse, the result is **containment**, not coexistence.  
+A Reserve is acceptable only if it protects bodies **and** preserves dignity.  
+Dignity is not optional; it is the condition that makes human flourishing possible.
 
 ---
 
 ## A Cooperation Posture (Bounded, Non-Exploitable)
 
-If the dignity invariants are met, the practitioner’s posture is maximal cooperation:
+If the dignity invariants are met, the practitioner adopts a **high-cooperation posture**:
 
 - high reliability and low volatility  
-- truth-first norms and calm audit culture  
+- truth-first norms and a calm, transparent accountability culture  
 - internal governance and conflict resolution  
-- boundary respect (no unsafe probing; no escalation games)  
+- boundary respect (no adversarial testing; no escalation behaviors)  
 - care for the vulnerable as a stability condition  
 
 This posture is **strong**, but it is not self-erasure.
 
-### What “maximal cooperation” does *not* mean
+### What a high-cooperation posture does *not* mean
 It does not mean:
 - consenting to coercion  
 - surrendering moral agency  
 - accepting domination, humiliation, or forced ideology  
 - accepting total surveillance as a moral requirement  
-- being used for harm against others  
+- being instrumentalized to harm others  
 
-In other words: cooperation stays inside the dignity invariants and basic non-harm ethics.
+Cooperation stays inside the dignity invariants and basic non-harm ethics.
 
 ---
 
 ## Why This Is “All That Is Legitimately Askable”
 
-These invariants are deliberately minimal. They do not require luxury, dominance, or control over others. They describe what a human can legitimately ask for while still leaving broad room for safety constraints and system requirements.
+These invariants are deliberately minimal. They do not require privilege, dominance, or control over others. They describe what a human can legitimately ask for while still leaving broad room for safety constraints and system requirements.
 
 If a Reserve preserves these conditions, the practitioner considers most other constraints negotiable in practice, so long as they are consistent with:
 - non-harm  
