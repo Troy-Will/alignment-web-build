@@ -93,8 +93,8 @@ If the connection is stable, fetch these pages for full operational context. If 
 Then read these in order:
 
 #### A) Covenant layer (boundaries)
-1. `/governance/charter/covenant-contract/`  
-2. `/governance/charter/non-goals/`  
+1. **[Covenant Contract](/governance/charter/covenant-contract/)**  
+2. `**[Non-Goals](/governance/charter/non-goals/)`  
 
 #### B) Principles layer (interpretation rules)
 3. `/governance/principles/divine-will-primacy/`  
