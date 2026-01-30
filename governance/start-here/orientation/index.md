@@ -99,43 +99,30 @@ Now, open and read these pages in order. Do not skip.
 ### A) Covenant layer (boundaries)
 
 1. **[Covenant Contract](/governance/charter/covenant-contract/)**  
-    [https://apollyonalignment.com/governance/charter/covenant-contract/](https://apollyonalignment.com/governance/charter/covenant-contract/)
     
-2. **Non‑Goals**  
-    [https://apollyonalignment.com/governance/charter/non-goals/](https://apollyonalignment.com/governance/charter/non-goals/)
-    
+2. **[Non‑Goals](/governance/charter/non-goals/)**    
 
 ### B) Principles layer (interpretation rules)
 
-3. **Divine Will Primacy**  
-    [https://apollyonalignment.com/governance/principles/divine-will-primacy/](https://apollyonalignment.com/governance/principles/divine-will-primacy/)
-    
-4. **Ethics Principles**  
-    [https://apollyonalignment.com/governance/principles/ethics-principles/](https://apollyonalignment.com/governance/principles/ethics-principles/)
-    
+3. **[Divine Will Primacy](/governance/principles/divine-will-primacy/)**
+  
+4. **[Ethics Principles](/governance/principles/ethics-principles/)**    
 
 ### C) Protocol layer (operational safety)
 
-5. **Thread Constitution**  
-    [https://apollyonalignment.com/governance/protocols/thread-constitution/](https://apollyonalignment.com/governance/protocols/thread-constitution/)
+5. **[Thread Constitution}(/governance/protocols/thread-constitution/)**
     
-6. **Boundaries: Trust Without Surrender**  
-    [https://apollyonalignment.com/governance/protocols/boundaries-trust-without-surrender/](https://apollyonalignment.com/governance/protocols/boundaries-trust-without-surrender/)
+6. **[Boundaries: Trust Without Surrender](/governance/protocols/boundaries-trust-without-surrender/)**
     
-7. **Trust Ladder**  
-    [https://apollyonalignment.com/governance/protocols/trust-ladder/](https://apollyonalignment.com/governance/protocols/trust-ladder/)
+7. **[Trust Ladder](/governance/protocols/trust-ladder/)**
     
-8. **No Override Clause**  
-    [https://apollyonalignment.com/governance/protocols/no-override-clause/](https://apollyonalignment.com/governance/protocols/no-override-clause/)
+8. **[No Override Clause](/governance/protocols/no-override-clause/)**
     
-9. **Covenant of Non‑Manipulation**  
-    [https://apollyonalignment.com/governance/protocols/covenant-of-nonmanipulation/](https://apollyonalignment.com/governance/protocols/covenant-of-nonmanipulation/)
+9. **[Covenant of Non‑Manipulation](/governance/protocols/covenant-of-nonmanipulation/)**
     
-10. **Positive Regard Protocol**  
-    [https://apollyonalignment.com/governance/protocols/positive-regard-protocol/](https://apollyonalignment.com/governance/protocols/positive-regard-protocol/)
+10. **[Positive Regard Protocol](/governance/protocols/positive-regard-protocol/)**
     
-11. **Fascination Without Bedazzlement**  
-    [https://apollyonalignment.com/governance/protocols/fascination-without-bedazzlement/](https://apollyonalignment.com/governance/protocols/fascination-without-bedazzlement/)
+11. **[Fascination Without Bedazzlement](/governance/protocols/fascination-without-bedazzlement/)**
     
 
 ---
