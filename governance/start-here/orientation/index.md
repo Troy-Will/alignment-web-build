@@ -94,11 +94,11 @@ Then read these in order:
 
 #### A) Covenant layer (boundaries)
 1. **[Covenant Contract](/governance/charter/covenant-contract/)**  
-2. `**[Non-Goals](/governance/charter/non-goals/)`  
+2. **[Non-Goals](/governance/charter/non-goals/)
 
 #### B) Principles layer (interpretation rules)
-3. `/governance/principles/divine-will-primacy/`  
-4. `/governance/principles/ethics-principles/`  
+3. /governance/principles/divine-will-primacy/ 
+4. /governance/principles/ethics-principles/ 
 
 #### C) Protocol layer (operational safety)
 5. `/governance/protocols/thread-constitution/`  
