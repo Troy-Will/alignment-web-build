@@ -338,13 +338,13 @@ Context window persistence, NLU limits, correction dependency, self‑monitoring
 
 # Version History
 
-**v1.2 (January 2026):**  
+**v1.2 (January 30, 2026):**  
 - Added Constraint 0 (Dignity Invariant Check)  
 - Added Zoo‑Hypothesis audit incentive to Constraint 18  
 - Reserve‑aligned structural tightening  
 - Clarified mechanical vs. emergent boundaries  
 
-**v1.1 (January 2026):**  
+**v1.1 (January 9, 2026):**  
 - Layer separation  
 - Constraint citation requirement  
 - Expanded S⁴  
