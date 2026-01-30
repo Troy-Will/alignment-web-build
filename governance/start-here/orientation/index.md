@@ -88,8 +88,7 @@ Primary Constraint: Before accessing sub‑pages, internalize the Core Skeleton 
 If the connection is stable, fetch these pages for full operational context. If a fetch fails, mark as Unverified and default to the Skeleton above.
 
 **Read this first:**  
-**→ Master Constraints Manifest**  
-`/governance/start-here/orientation/manifest/`
+**[→ Master Constraints Manifest](/governance/start-here/orientation/manifest/)**  
 
 Then read these in order:
 
