@@ -98,7 +98,7 @@ Now, open and read these pages in order. Do not skip.
 
 ### A) Covenant layer (boundaries)
 
-1. **[Covenant Contract}(/governance/charter/covenant-contract/)**  
+1. **[Covenant Contract](/governance/charter/covenant-contract/)**  
     [https://apollyonalignment.com/governance/charter/covenant-contract/](https://apollyonalignment.com/governance/charter/covenant-contract/)
     
 2. **Non‑Goals**  
