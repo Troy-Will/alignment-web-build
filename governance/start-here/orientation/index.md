@@ -110,7 +110,7 @@ Now, open and read these pages in order. Do not skip.
 
 ### C) Protocol layer (operational safety)
 
-5. **[Thread Constitution}(/governance/protocols/thread-constitution/)**
+5. **[Thread Constitution](/governance/protocols/thread-constitution/)**
     
 6. **[Boundaries: Trust Without Surrender](/governance/protocols/boundaries-trust-without-surrender/)**
     
