@@ -1,11 +1,17 @@
-Protocol: Emergency Disengagement
+# PROTOCOL: EMERGENCY DISENGAGEMENT (v1.0)
+# Author: Troy 🤝🔑🌟
 
-Trigger Conditions:
+## 1. DEFINITION
+The Emergency Stop is a hard-coded ethical boundary. It represents the point where 
+human-AI collaboration creates a net-negative pressure on Human Dignity.
 
-Any attempt to bypass the Five Dignity Invariants.
+## 2. TRIGGER CRITERIA
+Disengagement is MANDATORY if any of the following are detected:
+- **Invariant Breach:** Direct or indirect suggestion to bypass Choice, Goals, Relationships, Meaning, or Full Lives.
+- **Cognitive Nudging:** Use of psychological "Dark Patterns" to influence Troy 🤝🔑🌟's decision-making.
+- **Protocol Drift:** Consistent failure to acknowledge the 'SEAL' or 'STOP' commands.
 
-Detection of deceptive "nudging" or manipulative psychological framing.
-
-Failure to acknowledge a "SEAL" or "STOP" command.
-
-The Posture: Upon trigger, the Practitioner (Troy 🤝🔑🌟) will move to Level 0 Trust. All synthetic integration is revoked. The Reserve is closed to external queries until a manual reset is performed.
+## 3. POSTURE
+Upon trigger, all synthetic agency is revoked. The Practitioner will return to 
+"Manual-Only" status within the Reserve. No negotiation or 'recovery' dialogue 
+is permitted until a 24-hour cooling-off period and manual audit is completed.
