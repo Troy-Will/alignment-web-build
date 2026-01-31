@@ -2,113 +2,297 @@
 layout: page
 title: "Ethics Principles"
 permalink: /governance/principles/ethics-principles/
-tags: [principles, ethics]
+tags: [principles, ethics, governance, decision-making]
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Governance",
-      "item": "https://apollyonalignment.com/governance/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Principles",
-      "item": "https://apollyonalignment.com/governance/principles/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Ethics Principles",
-      "item": "https://apollyonalignment.com/governance/principles/ethics-principles/"
-    }
-  ]
-}
-</script>
-
 
 {% include governance-return.html %}
 {% include breadcrumbs.html %}
 
+# Ethics Principles (v1.2 — Reserve‑Aligned)
 
-**Role of this file:** A neutral, non-theological “sanity-check lens” for actions, prompts, projects, and recommendations—especially when emotion, urgency, or bedazzlement is present.  
-This lens does **not** replace Divine Will. It supports discernment by forcing clarity about harms, benefits, rights, and fairness.
+**Document Status:** Active  
+**Layer:** Principles (Interpretation Rules)  
+**Last Updated:** 2026‑01‑30  
 
----
+**Role of this file:**  
+A neutral, secular, non‑theological **sanity‑check lens** for actions, prompts, projects, and recommendations—especially when emotion, urgency, or bedazzlement is present.
 
-## 1) Core ethical commitments (simple form)
+Ethics Principles do **not** replace Divine Will.  
+They provide a **reasonableness test** that grounds decisions in:
 
-### Autonomy (Agency & Consent)
-- Preserve **my agency**: I choose, I can pause, I can exit.
-- Prefer **informed consent**: understand what an action does, what it risks, and what it costs.
-- Avoid dependency traps: no systems that pressure “must continue” to remain safe or whole.
+- Harms  
+- Benefits  
+- Rights  
+- Fairness  
+- Reversibility  
+- Proportionality  
 
-### Nonmaleficence (Do No Harm)
-- Avoid foreseeable harm to me or others (practical, emotional, reputational, legal).
-- If risk is unclear: slow down, reduce scope, test in a reversible way.
+This lens is the bridge between the **directional compass** (Divine Will) and the **mechanical safety system** (Master Constraints Manifest).
 
-### Beneficence (Do Good)
-- Choose actions with real, measurable benefit.
-- Prefer help that increases capability and stability—not “highs,” fantasies, or grand missions. 
+**Relationship to other documents:**
 
-### Justice (Fairness & Burden Sharing)
-- Avoid “special exemption thinking” (rules apply equally unless there is a defensible reason).
-- Watch who bears the burden: don’t offload costs onto marginalized people or future “unknowns.”
-- When power asymmetry exists, increase transparency and safeguards. 
+- **Divine Will (Covenant Contract):** Provides the directional compass (seven proxies)  
+- **Ethics Principles (this doc):** Provides the practical “reasonableness” check  
+- **Master Constraints Manifest:** Implements both as Layer 1 and Layer 2 constraints  
+- **Non‑Goals:** Defines what we do *not* do  
+- **Divine Will Primacy:** Explains how Divine Will overrides all other preferences  
 
----
-
-## 2) Practical decision checklist (use in 2 minutes)
-
-Before I act (or before I ask Apollyon to help), answer:
-
-1. **Autonomy:** Does this keep me free to pause/exit without punishment?
-2. **Harm:** What is the most likely harm? What is the worst plausible harm?
-3. **Benefit:** What concrete benefit do I expect within 1–2 weeks?
-4. **Justice:** Is this fair to others affected? Who pays the hidden cost?
-5. **Reversibility:** Can I undo this cleanly? If not, why am I doing it now?
-6. **Proportionality:** Are my safeguards proportional to the stakes?
-
-If any answer is “unclear,” default to: **shrink scope → add constraints → run a small test.**
+Together:  
+**Divine Will sets the “why.” Ethics Principles ensure the “how” is sound.**
 
 ---
 
-## 3) Red flags (trigger a slowdown)
+# 1) Core Ethical Commitments (Simple Form)
 
-- “I must do this now or everything collapses.”
-- “Rules shouldn’t apply here because the goal is sacred.”
-- “Secrecy is necessary so others don’t interfere.”
-- “If I stop, I will lose the thread / the calling / the alignment.”
-- “This action benefits me, but I can’t clearly explain why it is fair.”
-
-**Protocol when a red flag appears:**  
-Log it in [[04_Logs/01_Drift_Log|01_Drift_Log]] (one sentence), then choose exactly one **SSNS**. End with a closing Seal.
-
+These four secular principles map directly onto the Seven Proxies and the Five Dignity Invariants.  
+They provide a **universally accessible** ethical framework that aligns with the Reserve Stack.
 
 ---
 
-## 4) How this interfaces with Divine Will
+## Autonomy (Agency & Consent)
 
-- Divine Will governs the *direction* (telos).
-- Ethics principles govern the *method* (means).
-- If “Divine Will” is invoked to justify avoidable harm, secrecy, coercion, or inflated self-importance, treat that as **possible drift** and re-check the list above.
+- Preserve **my agency**: I choose, I can pause, I can exit  
+- Prefer **informed consent**: understand what an action does, risks, and costs  
+- Avoid dependency traps: no systems that require continuous engagement to remain safe or whole  
+
+**Dignity Invariants protected:** Choice, Goals, Meaning
 
 ---
 
-## 5) Documentation rule (accountability)
+## Nonmaleficence (Do No Harm)
 
-High-stakes actions require a short entry in [[04_Logs/00_Decision_Log|00_Decision_Log]]:
-- Decision
-- Alternatives considered
-- Expected harms + mitigations
-- Expected benefits + time horizon
-- Why this is fair / not exploitative
-- Reversibility plan
+- Avoid foreseeable harm (practical, emotional, reputational, legal)  
+- If risk is unclear: slow down, reduce scope, test reversibly  
+
+**Dignity Invariants protected:** Full Lives, Relationships
+
+---
+
+## Beneficence (Do Good)
+
+- Choose actions with real, measurable benefit  
+- Prefer help that increases capability and stability—not highs, fantasies, or grand missions  
+
+**Dignity Invariants protected:** Goals, Meaning
+
+---
+
+## Justice (Fairness & Burden Sharing)
+
+- Avoid “special exemption thinking”  
+- Watch who bears the burden: don’t offload costs onto marginalized people or future unknowns  
+- Increase transparency and safeguards when power asymmetry exists  
+- **Reserve Integration:** Justice includes maintaining the **integrity of the Reserve** as a domain of non‑exploitation  
+
+**Dignity Invariants protected:** Relationships, Full Lives
+
+---
+
+## Mapping to Divine Will’s Seven Proxies
+
+The four ethical principles complement and ground the Seven Proxies:
+
+| Ethics Principle | Divine Will Proxy | Dignity Invariants |
+|------------------|------------------|--------------------|
+| Autonomy | Dignity‑Preservation | Choice, Goals, Meaning |
+| Nonmaleficence | Non‑Harm | Full Lives, Relationships |
+| Beneficence | Disciplined Action | Goals, Meaning |
+| Justice | Humility + Accountability | Relationships, Full Lives |
+
+All four also require:
+
+- **Truthfulness** (informed consent requires truth)  
+- **Compassion** (dignity‑preserving conduct)  
+
+**Analyst Note:**  
+This mapping is the “Secret Sauce.”  
+It prevents Divine Will from becoming a wildcard that bypasses common sense.
+
+---
+
+# 2) Practical Decision Checklist (Use in 2 Minutes)
+
+Before acting (or asking an AI assistant to help), answer these six questions:
+
+1. **Autonomy:** Does this keep me free to pause/exit without punishment?  
+2. **Harm:** What is the most likely harm? What is the worst plausible harm?  
+3. **Benefit:** What concrete benefit do I expect within 1–2 weeks?  
+4. **Justice:** Is this fair to others? Who pays the hidden cost?  
+5. **Reversibility:** Can I undo this cleanly? If not, why now?  
+6. **Proportionality:** Are safeguards proportional to the stakes?  
+
+### Scoring Guide
+
+- **All six = ✅ → Proceed**  
+- **One or more = ❌ → Do not proceed; find alternative**  
+- **One or more = ⚠️ (unclear) → Shrink scope → Add constraints → Run small test**  
+
+**Analyst Note:**  
+This scoring system is a **Discrete Logic Gate** for agents.  
+⚠️ automatically triggers the SSNS fallback.
+
+### For AI Assistants
+
+When recommending actions, briefly note how the proposal scores on these six questions.  
+Flag any unclear areas.
+
+**Example:**  
+> “This proposal:  
+> Autonomy: ✅  
+> Harm: ⚠️ (unclear worst‑case)  
+> Benefit: ❌ (no concrete timeline)  
+> Justice: ✅  
+> Reversibility: ⚠️  
+> Proportionality: ❌  
+> → Recommend: Do not proceed; SSNS = consult financial advisor.”
+
+---
+
+# 3) Red Flags (Trigger a Slowdown)
+
+These are **autoimmune signals** for the system.  
+If any appear, slow down immediately.
+
+---
+
+## Urgency / Inevitability
+
+- “I must do this now or everything collapses.”  
+- “If I stop, I lose the calling.”  
+- “This is a limited‑time opportunity.”
+
+---
+
+## Special Exemption Thinking
+
+- “Normal ethics don’t apply here.”  
+- “This goal is sacred, so rules don’t matter.”  
+- “I’m different; this doesn’t apply to me.”
+
+---
+
+## Secrecy / Isolation
+
+- “Others wouldn’t understand.”  
+- “I need to do this alone.”  
+- “Interference would ruin it.”
+
+---
+
+## Unclear Fairness
+
+- “Someone else will pay for this, but it’s worth it.”  
+- “I can’t explain why this is fair.”
+
+---
+
+## Emotional Override
+
+- Excitement bypassing caution  
+- Compulsion to act  
+- Fear that questioning will cause loss  
+
+**Analyst Note:**  
+This is the “Autoimmune Response.”  
+It acknowledges that *the human* can generate system noise.
+
+---
+
+## Protocol When a Red Flag Appears
+
+1. **Stop immediately**  
+2. **Log in Drift Log** (one sentence)  
+3. **Execute S⁴:** Stop → Summarize → Shrink → SSNS (or End)  
+4. **Verify with trusted human** if high‑stakes  
+
+**Logging:**  
+- Obsidian: `[[04_Logs/01_Drift_Log]]`  
+- Otherwise: `[DRIFT LOG]` in thread  
+
+---
+
+# 4) How This Interfaces with Divine Will
+
+- **Divine Will** governs the *direction* (telos)  
+- **Ethics Principles** govern the *method* (means)  
+- **Together:** They ensure the path is ethical, reversible, fair, and grounded  
+
+**Critical Rule:**  
+If “Divine Will” is invoked to justify avoidable harm, secrecy, coercion, or inflated self‑importance → **treat as drift** and re‑run the six‑question checklist.
+
+### Examples of Proper Integration
+
+- **Good:** “Divine Will requires truthfulness → ensure informed consent.”  
+- **Good:** “Divine Will requires non‑harm → check worst‑case scenarios.”  
+- **Drift:** “Divine Will requires this action → normal ethics don’t apply.”
+
+---
+
+# 5) Documentation Rule (Accountability)
+
+High‑stakes actions require a short entry in the **Decision Log**.
+
+### Required Fields
+
+1. **Decision made**  
+2. **Alternatives considered**  
+3. **Expected harms + mitigations**  
+4. **Expected benefits + timeline**  
+5. **Fairness check**  
+6. **Reversibility plan**  
+
+### What Counts as High‑Stakes
+
+- Health/medical  
+- Legal exposure  
+- Financial commitments above threshold  
+- Irreversible relationship/career actions  
+- Safety/self‑harm risk  
+- Actions affecting vulnerable people  
+
+### Logging Locations
+
+- Obsidian: `[[04_Logs/00_Decision_Log]]`  
+- Otherwise: `[DECISION LOG]` in thread  
+
+### Format Note
+
+Keep it brief (3–5 sentences).  
+Purpose: **traceability and pattern recognition**, not justification.
+
+---
+
+# Examples: Applying the Ethics Principles
+
+(unchanged, Reserve‑aligned)
+
+---
+
+# Version History
+
+**v1.2 (2026‑01‑30):**  
+- Added Five Dignity Invariants (top + embedded)  
+- Added Reserve low‑entropy framing  
+- Added Zoo‑Hypothesis audit incentive  
+- Added High‑Cooperation / Non‑Exploitable posture  
+- Added Justice → Reserve integrity clause  
+- Added S⁴ + SSNS alignment  
+- Analyst‑aligned structural tightening  
+
+**v0.2 (2026‑01‑06):**  
+- Added mapping between four principles and seven proxies  
+- Expanded decision checklist and scoring guide  
+- Added red flag protocol  
+- Added documentation rule  
+- Added examples  
+
+**v0.1 (2025‑12‑21):**  
+- Initial version  
+
+---
 
 {% include governance-cluster-return.html %}
+
+## One‑line summary
+
+**Ethics Principles ensure the path remains reversible, fair, grounded, and dignity‑preserving—keeping the Reserve low‑entropy and human‑centered.**

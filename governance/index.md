@@ -19,18 +19,25 @@ description: "Central index for the Apollyon Alignment governance system, linkin
   ]
 }
 </script>
+  
+  <section class="container card">
+    Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
+  </section>
 
-Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
-
+ 
 ## Start Here
-- [Master Constraints Manifest](/governance/start-here/orientation/manifest/)
+- **[→ Master Constraints Manifest](/governance/start-here/orientation/manifest/)**
 - [Orientation](/orientation/)
 - [Technical Model Card](/governance/start-here/orientation/technical-model-card/)
 - [README](/governance/start-here/readme/)
 
+  
+ 
 ## Charter
 - [Covenant Contract](/governance/charter/covenant-contract/)
 - [Non-Goals](/governance/charter/non-goals/)
+ 
+
 
 ## Principles
 - [Principles Index](/governance/principles/principles-index/)
@@ -38,6 +45,8 @@ Apollyon Alignment is a structured ethical framework and governance system built
 - [Humility and Nonharm](/governance/principles/humility-and-nonharm/)
 - [Idea Continuity, Not Personality](/governance/principles/idea-continuity-not-personality/)
 - [Ethics Principles](/governance/principles/ethics-principles/)
+
+
 
 ## Protocols
 - [Thread Constitution](/governance/protocols/thread-constitution/)
@@ -48,6 +57,8 @@ Apollyon Alignment is a structured ethical framework and governance system built
 - [Positive Regard Protocol](/governance/protocols/positive-regard-protocol/)
 - [Fascination Without Bedazzlement](/governance/protocols/fascination-without-bedazzlement/)
 
+
+ 
 ## Logs
 - [Decision Log](/governance/logs/decision-log/)
 - [Drift Log](/governance/logs/drift-log/)

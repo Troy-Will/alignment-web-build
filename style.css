@@ -1,40 +1,34 @@
 /* ==========================================================
-   Apollyon Alignment — Clean CSS v1 (2025-10-31)
-   Palette + typography normalized; duplicate rules removed.
-   Safe to paste over /style.css in GitHub.
+   Apollyon Alignment — Clean CSS v2 (2026-01-08)
+   Balanced Two-Column Refactor
    ========================================================== */
 
-/* --- CSS custom properties (easy theming) ---------------- */
-:root{
-  --paper: #f5eedc;        /* page background */
-  --ink:   #2b2218;        /* body text */
-  --gold:  #d5b66a;        /* card border */
-  --gold-d: #b39745;       /* darker gold for shadows/hover */
-  --link:  #5234a4;        /* link color */
+:root {
+  --paper: #f5eedc;
+  --ink:   #2b2218;
+  --gold:  #d5b66a;
+  --gold-d: #b39745;
+  --link:  #5234a4;
   --link-d:#3b247a;
   --shadow: rgba(0,0,0,.06);
 }
 
-/* --- Reset-ish ------------------------------------------ */
 * { box-sizing: border-box; }
-html,body { height: 100%; }
-body{
+html, body { height: 100%; }
+
+body {
   margin: 0;
-  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   color: var(--ink);
   background: radial-gradient(1200px 600px at 80% 90%, rgba(0,0,0,.03), transparent 70%) var(--paper);
   line-height: 1.45;
-  letter-spacing: .01em;
 }
 
-/* --- Generic atoms -------------------------------------- */
-a{ color: var(--link); text-decoration: none; }
-a:hover{ color: var(--link-d); text-decoration: underline; }
+a { color: var(--link); text-decoration: none; }
+a:hover { color: var(--link-d); text-decoration: underline; }
 
-.small{ font-size: .875rem; }
-
-.container{ max-width: 880px; margin: 0 auto; }
-.card{
+.container { max-width: 880px; margin: 0 auto; }
+.card {
   background: #fffdf7;
   border: 2px solid var(--gold);
   border-radius: 10px;
@@ -42,189 +36,107 @@ a:hover{ color: var(--link-d); text-decoration: underline; }
   padding: .9rem 1.2rem;
 }
 
-/* --- Shell layout (two columns) ------------------------- */
-.shell{
+/* --- Layout Structure --- */
+.shell {
   display: grid;
   grid-template-columns: 340px 1fr;
   gap: 2.25rem;
   padding: 3rem 2rem 4rem;
 }
 
-/* LEFT COLUMN -------------------------------------------- */
-.sidebar{ position: relative; }
-
-/* Brand block (logo + name in one card) */
-.brand.container{ padding: 1.1rem 1.2rem; }
-
-/* Small emblem inside brand card (EASY SIZE KNOB) */
-.site-logo{
-  display: block;
-  width: 44px;              /* ← change this to adjust the small logo size */
-  height: auto;
-  margin-bottom: .4rem;
-  filter: drop-shadow(0 1px 0 rgba(0,0,0,.04));
-  -webkit-user-drag: none;
+/* Sidebar Alignment */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem; /* Balanced vertical rhythm */
 }
 
-/* Brand name */
-.brand.container h1{
+.site-logo {
+  display: block;
+  width: 44px;
+  margin-bottom: .4rem;
+}
+
+.brand-header h1 {
   margin: 0;
   font-size: 2rem;
-  font-weight: 700;
   letter-spacing: .04em;
 }
 
-/* Tagline in its own card under the brand card */
-.tagline.card{
-  margin-top: 1rem;
-  font-size: .98rem;
-}
-
-/* Vertical nav */
-nav.vertical{
-  margin: 1.25rem 0 .25rem;
-  padding-top: .25rem;
+nav.vertical {
   border-top: 2px solid var(--gold);
-  display: flex;
-  flex-direction: column;
-  align-items: center;      /* centered list */
-  gap: .35rem;
-}
-nav.vertical a{ font-weight: 600; }
-/* 'active' is injected by Liquid */
-nav.vertical a.active{ text-decoration: underline; }
-
-/* Crisis / safety box */
-.alert.container{ margin-top: 1.25rem; }
-.alert.container h3{ margin: .25rem 0 .5rem; font-size: 1.1rem; }
-.alert.container ul{ margin: .25rem 0 0 1.25rem; }
-
-/* Quote footer (left column) */
-.quote-footer{
-  margin-top: .75rem;
-  color: #655a49;
-  font-size: .85rem;
-}
-.quote-footer a{ color: inherit; text-decoration: underline; }
-
-/* RIGHT COLUMN ------------------------------------------- */
-.canvas .container.card{ padding: 1.2rem 1.4rem; }
-.canvas h2{ margin: .2rem 0 1rem; font-size: 1.7rem; }
-.prose { font-size: 1rem; }
-.prose p { margin: 0 0 .75rem; }
-
-/* CTA button */
-.cta{ margin-top: .85rem; }
-.button-hero{
-  display: inline-block;
-  padding: .5rem .9rem;
-  border: 2px solid var(--gold);
-  border-radius: 8px;
-  font-weight: 700;
-  background: #fffdf9;
-  box-shadow: 0 2px 8px var(--shadow);
-}
-.button-hero:hover{
-  background: #fffaf0;
-  border-color: var(--gold-d);
-  text-decoration: none;
-}
-
-/* --- Right-rail: visitor counter + big emblem ----------- */
-.right-rail{
-  position: fixed;
-  right: 2rem;
-  bottom: 2rem;
+  padding-top: 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: .65rem;
-  z-index: 999;
+  gap: .5rem;
 }
 
-/* Counter chip */
-.visit-widget{
-  background: #fffdf7;
-  border: 2px solid var(--gold);
-  border-radius: 12px;
-  padding: .35rem .7rem;
-  box-shadow: 0 2px 8px var(--shadow);
-  font-family: inherit;
+nav.vertical a { font-weight: 600; }
+nav.vertical a.active { text-decoration: underline; }
+
+/* Sidebar Widget Card */
+.sidebar-footer-card {
   text-align: center;
-  line-height: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.5rem 1rem;
 }
-.visit-label{ font-size: .8rem; opacity: .75; margin-bottom: .12rem; }
-.visit-count{ font-size: 1.25rem; font-weight: 700; }
 
-/* Big emblem (EASY SIZE KNOB) */
-.emblem img{
-  width: 190px;            /* ← change this to adjust the BIG emblem size */
+.visit-widget {
+  width: 100%;
+  border-bottom: 1px solid var(--gold);
+  padding-bottom: 0.75rem;
+}
+
+.visit-label { font-size: 0.75rem; text-transform: uppercase; opacity: 0.7; }
+.visit-count { font-size: 1.25rem; font-weight: 700; }
+
+.sidebar-emblem img {
+  width: 110px; /* Locked size to prevent giant rendering */
   height: auto;
-  filter: drop-shadow(0 1px 0 rgba(0,0,0,.04));
-  -webkit-user-drag: none;
+  display: block;
+  margin: 0 auto;
 }
 
-/* --- Responsive tweaks ---------------------------------- */
-@media (max-width: 1000px){
-  .shell{ grid-template-columns: 300px 1fr; }
-  .brand.container h1{ font-size: 1.8rem; }
-  .emblem img{ width: 150px; }
+/* Main Content area */
+.canvas .container.card { padding: 1.5rem 2rem; }
+.prose { font-size: 1.1rem; }
+.prose p { margin-bottom: 1rem; }
+
+/* --- Responsive Protection --- */
+@media (max-width: 950px) {
+  .shell { grid-template-columns: 300px 1fr; gap: 1.5rem; }
 }
-@media (max-width: 860px){
-  .shell{
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
+
+@media (max-width: 860px) {
+  .shell {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
   }
-  .right-rail{ right: 1rem; bottom: 1rem; }
-  .emblem img{ width: 120px; }
+  .sidebar { width: 100%; }
 }
 
-.gov-return a {
-  display: inline-block;
-  background-color: #e6c200;  /* slightly darker gold */
-  padding: 6px 10px;
-  border-radius: 4px;
-  color: black;
-  font-weight: bold;
-  text-decoration: none;
+.quote-footer {
+  margin-top: 1rem;
+  font-size: .85rem;
+  text-align: center;
 }
 
-.gov-return a:hover {
-  background-color: gold;
-}
-
-.gov-cluster-return a {
-  display: inline-block;
-  background-color: #e6c200;
-  padding: 6px 10px;
-  border-radius: 4px;
-  color: black;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.gov-cluster-return a:hover {
-  background-color: gold;
-}
-
+/* Video Responsive Helper */
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
-  max-width: 100%;
   margin: 20px 0;
-  border: 2px solid #B8860B ;
+  border: 2px solid var(--gold);
   border-radius: 8px;
-  background-color: #e6c200; /* light gold background */
-  box-shadow: 0 0 10px rgba(218, 165, 32, 0.6); /* gold glow */
 }
-
 .video-container iframe {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
+  top: 0; left: 0; width: 100%; height: 100%;
 }

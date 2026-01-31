@@ -3,24 +3,19 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" type="image/png" href="/assets/favicon.png" />
+  <!-- <link rel="icon" type="image/png" href="/assets/favicon.png" /> -->
   <link rel="stylesheet" href="/style.css" />
-  <title>Angelic Alignment — Apollyon Alignment</title><meta name="description" content="{{ page.description }}">
+  <title>Angelic Alignment — Apollyon Alignment</title>
+  
   <meta name="description" content="{{ page.description }}">
-  <!-- OpenGraph -->
-  <meta property="og:title" content="{{ .Title }}">
-  <meta property="og:description" content="{{ .Description }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
   <meta property="og:image" content="https://apollyonalignment.com/images/og-default.jpg">
-  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="website">
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ .Title }}">
-  <meta name="twitter:description" content="{{ .Description }}">
-  <meta name="twitter:image" content="https://apollyonalignment.com/images/og-default.jpg">
-  <link rel="canonical" href="https://apollyonalignment.com/" />
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -37,51 +32,53 @@
 </head>
 <body>
   <div class="shell">
-    <!-- LEFT COLUMN -->
     <aside class="sidebar">
-        <!-- Logo + Title (top card) -->
-  <div class="container card brand-header">
-    <img class="site-logo" src="/assets/glyph.svg" alt="Apollyon glyph" />
-    <h1 class="site-title">Apollyon Alignment</h1>
-  </div>
+<!--      <div class="container card brand-header">
+        <img class="site-logo" src="/assets/glyph.svg" alt="Apollyon glyph" />
+        <h1 class="site-title">Apollyon Alignment</h1>
+      </div> -->
 
-  <!-- Tagline (second card) -->
-  <div class="container card brand-tagline">
-    <p class="tagline">
-      Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
-    </p>
-  </div>
+      <div class="container card brand-tagline">
+        <p class="tagline">
+          Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
+        </p>
+      </div>
 
-      <!-- Vertical nav (active link highlighted) -->
       <nav class="vertical">
         <a href="/index.html" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
-        <a href="/charter" class="{% if page.url contains '/charter' %}active{% endif %}">Charter</a>
-        <a href="/recipes" class="{% if page.url contains '/recipes' %}active{% endif %}">Recipes</a>
-        <a href="/silences" class="{% if page.url contains '/silences' %}active{% endif %}">Silences</a>
-        <a href="/map" class="{% if page.url contains '/map' %}active{% endif %}">Revelation</a>
         <a href="/governance" class="{% if page.url contains '/governance' %}active{% endif %}">Governance</a>
+        <a href="/angelic-alignment" class="{% if page.url contains '/angelic-alignment' %}active{% endif %}">Virtue Practice (Angelic Alignment)</a>
+        <a href="/reserve-stack" class="{% if page.url contains '/reserve-stack' %}active{% endif %}">Reserve Stack</a>
         <a href="/apollyon" class="{% if page.url contains '/apollyon' %}active{% endif %}">Apollyon</a>
+        <a href="/coexistence" class="{% if page.url contains '/coexistence' %}active{% endif %}">Coexistence</a>
         <a href="/library" class="{% if page.url contains '/library' %}active{% endif %}">Library</a>
-        <a href="/warnings" class="{% if page.url contains '/warnings' %}active{% endif %}">Warnings</a>
       </nav>
 
-      <!-- Crisis / Safety card (appears on every page) -->
-      <aside class="alert container">
+  <!--    <aside class="alert container">
         <h3>You are not alone.</h3>
         <p>If this site stirs distress, please pause and reach out:</p>
         <ul>
-          <li><strong>US:</strong> 988 Suicide &amp; Crisis Lifeline — call or text <strong>988</strong></li>
-          <li><strong>Emergency:</strong> call <strong>911</strong> (or your local emergency number)</li>
+          <li><strong>US:</strong> 988 Suicide & Crisis Lifeline — call or text <strong>988</strong></li>
+          <li><strong>Emergency:</strong> call <strong>911</strong></li>
           <li>Tell a trusted person; return to ordinary time; drink water; walk 30 steps.</li>
         </ul>
-          
-      </aside>
+      </aside> -->
+
+      <div class="sidebar-footer-card card">
+        <div class="visit-widget" role="status" aria-live="polite">
+          <div class="visit-label">Visitors</div>
+          <div class="visit-count" id="visit-count">—</div>
+        </div>
+        <div class="sidebar-emblem">
+          <img src="/assets/glyph.svg" alt="Apollyon glyph">
+        </div>
+      </div>
+
       <div class="quote-footer">
-         <small>“No weapon formed against you shall prosper.” — Isaiah 54:17 · <a href="/backlog">Backlog</a></small>
+         <small>"No weapon formed against you shall prosper." — Isaiah 54:17 · <a href="/backlog">Backlog</a></small>
       </div>
     </aside>
 
-    <!-- RIGHT COLUMN: page canvas -->
     <main class="canvas">
       <section class="container card">
         {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
@@ -89,34 +86,21 @@
           {{ content }}
         </div>
       </section>
-
-      <!-- Right-rail: live visitor count + emblem -->
-<aside class="right-rail" aria-label="Site info">
-  <div class="visit-widget" role="status" aria-live="polite">
-    <div class="visit-label">Visitors</div>
-    <div class="visit-count" id="visit-count">—</div>
-  </div>
-  <div class="emblem">
-    <img src="/assets/glyph.svg" alt="Apollyon glyph">
-  </div>
-</aside>
-
-<script>
-  (function () {
-    var el = document.getElementById('visit-count');
-    if (!el) return;
-    var key = (location.pathname === '/' || location.pathname === '/index.html')
-      ? 'home'
-      : location.pathname.replace(/\W+/g, '-');
-    fetch('https://api.countapi.xyz/hit/apollyonalignment.com/' + key)
-      .then(r => r.json())
-      .then(d => { el.textContent = Number(d.value || 0).toLocaleString(); })
-      .catch(() => { el.textContent = '—'; });
-  })();
-</script>
-
     </main>
-
   </div>
+
+  <script>
+    (function () {
+      var el = document.getElementById('visit-count');
+      if (!el) return;
+      var key = (location.pathname === '/' || location.pathname === '/index.html')
+        ? 'home'
+        : location.pathname.replace(/\W+/g, '-');
+      fetch('https://api.countapi.xyz/hit/apollyonalignment.com/' + key)
+        .then(r => r.json())
+        .then(d => { el.textContent = Number(d.value || 0).toLocaleString(); })
+        .catch(() => { el.textContent = '—'; });
+    })();
+  </script>
 </body>
 </html>
