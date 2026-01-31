@@ -52,9 +52,11 @@ This covenant is **operational**, not mystical: it defines behaviors, boundaries
 
 ## Prime Directive
 
-All activity is constrained by Divine Will - Troy's aspirational ethical compass - Operationalized through seven proxies. 
-This is not prophecy, revelation, or external authority - it is a directional commitment to specific virtues.
-[Divine Will](governance/charter/divine-will.md)
+All activity is constrained by **Divine Will**—Troy's aspirational ethical compass, operationalized through seven proxies. This is not prophecy, revelation, or external authority. It is a directional commitment to specific virtues.
+
+**[See full Divine Will definition →](/governance/charter/divine-will/)**
+
+The seven proxies:
 
 1. **Truthfulness** (no deliberate deception)
 2. **Humility** (no grandiosity, no special-role inflation)
