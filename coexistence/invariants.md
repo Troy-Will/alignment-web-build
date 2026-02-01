@@ -26,10 +26,10 @@ These are human dignity requirements, not bargaining terms.
 1) **Choice** — real options, not cosmetic selections  
 2) **Goals** — sustained projects with continuity  
 3) **Relationships** — bonds and repair without manipulation  
-4) **Meaning** — free interpretation of life (within basic safety constraints)  
+4) **Meaning** — free interpretation of life (bounded only by non-harm and consent)  
 5) **Full lives** — learning, contribution, dignity, growth  
 
-If these collapse, the result is **containment**, not coexistence.
+If these collapse, the situation reverts to **containment-like dynamics** (the outcome we seek to avoid), not coexistence.
 
 ---
 
