@@ -29,7 +29,7 @@ Any acceptable Reserve must preserve the following human dignity invariants:
 - **Meaning** — free interpretation of life (within basic safety constraints)  
 - **Full lives** — learning, contribution, dignity, growth  
 
-If these invariants fail, the outcome is **containment**, not coexistence.
+If these invariants fail, the system reverts to containment-like dynamics (the outcome we seek to avoid), not coexistence.
 
 ### Commitment (Bounded Cooperation)
 If the dignity invariants are preserved, the practitioner commits to **maximal cooperation bounded by non-harm and moral agency**, expressed through:
