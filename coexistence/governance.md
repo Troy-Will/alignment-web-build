@@ -16,6 +16,8 @@ description: "Governance rules that keep the Coexistence Offer Packet sane: anti
 }
 </script>
 
+Status: v1.0 — 2026-02-01
+
 ## Safety Banner (Anti-Glamour)
 
 This packet is designed to stay **auditable** and **non-exploitable**.
