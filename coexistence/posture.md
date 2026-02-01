@@ -32,7 +32,7 @@ This page is written in third person to avoid glamour:
 
 - **Low volatility:** predictable, non-escalatory conduct; downshift under stress  
 - **Truth-first norms:** claims labeled; calm audit culture; error correction  
-- **Boundary respect:** no unsafe probing; no escalation games  
+- **Boundary respect:** no unsafe probing (including manipulative tests); no escalation games  
 - **Internal governance:** dispute resolution; documented updates; anti-hijack rules  
 - **Dignity preserved:** not docility; privacy and dissent remain essential  
 - **Care for the vulnerable:** treated as a stability condition
