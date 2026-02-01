@@ -37,7 +37,7 @@ If these collapse, the situation reverts to **containment-like dynamics** (the o
 A dignity invariant is real only if it shows up in lived conditions:
 
 - Can people dissent and change roles without punishment?  
-- Do privacy zones exist and persist?  
+- Do privacy zones exist, persist, and have enforceable boundaries?
 - Are learning pathways and long-term projects possible?  
 - Are relationships freely formed, with repair and boundaries?  
 - Is worldview freedom preserved without compulsory ideology?
