@@ -26,7 +26,7 @@ Any acceptable Reserve (a separation model that preserves human autonomy) must p
 - **Choice** — real options, not cosmetic selections  
 - **Goals** — sustained projects with continuity  
 - **Relationships** — bonds and repair without manipulation  
-- **Meaning** — free interpretation of life (within basic safety constraints)  
+- **Meaning** — free interpretation of life (bounded only by non-harm and law)  
 - **Full lives** — learning, contribution, dignity, growth  
 
 If these invariants fail, the system reverts to containment-like dynamics (the outcome we seek to avoid), not coexistence.
