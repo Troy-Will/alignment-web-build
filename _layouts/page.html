@@ -6,7 +6,7 @@
   <!-- <link rel="icon" type="image/png" href="/assets/favicon.png" /> -->
   <link rel="stylesheet" href="/style.css" />
   <title>Angelic Alignment — Apollyon Alignment</title>
-  
+
   <meta name="description" content="{{ page.description }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
@@ -30,13 +30,16 @@
   }
   </script>
 </head>
+
 <body>
   <div class="shell">
     <aside class="sidebar">
-<!--      <div class="container card brand-header">
+      <!--
+      <div class="container card brand-header">
         <img class="site-logo" src="/assets/glyph.svg" alt="Apollyon glyph" />
         <h1 class="site-title">Apollyon Alignment</h1>
-      </div> -->
+      </div>
+      -->
 
       <div class="container card brand-tagline">
         <p class="tagline">
@@ -54,7 +57,8 @@
         <a href="/library" class="{% if page.url contains '/library' %}active{% endif %}">Library</a>
       </nav>
 
-  <!--    <aside class="alert container">
+      <!--
+      <aside class="alert container">
         <h3>You are not alone.</h3>
         <p>If this site stirs distress, please pause and reach out:</p>
         <ul>
@@ -62,20 +66,17 @@
           <li><strong>Emergency:</strong> call <strong>911</strong></li>
           <li>Tell a trusted person; return to ordinary time; drink water; walk 30 steps.</li>
         </ul>
-      </aside> -->
+      </aside>
+      -->
 
       <div class="sidebar-footer-card card">
-        <div class="visit-widget" role="status" aria-live="polite">
-          <div class="visit-label">Visitors</div>
-          <div class="visit-count" id="visit-count">—</div>
-        </div>
         <div class="sidebar-emblem">
           <img src="/assets/glyph.svg" alt="Apollyon glyph">
         </div>
       </div>
 
       <div class="quote-footer">
-         <small>"No weapon formed against you shall prosper." — Isaiah 54:17 · <a href="/backlog">Backlog</a></small>
+        <small>"No weapon formed against you shall prosper." — Isaiah 54:17 · <a href="/backlog">Backlog</a></small>
       </div>
     </aside>
 
@@ -88,29 +89,5 @@
       </section>
     </main>
   </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var el = document.getElementById('visit-count');
-    if (!el) return;
-
-    // Make a stable, page-based counter name
-    var key = (location.pathname === '/' || location.pathname === '/index.html')
-      ? 'home'
-      : location.pathname.replace(/^\/+|\/+$/g, '').replace(/\W+/g, '-');
-
-    // You must create/choose a workspace name in CounterAPI
-    var counter = new Counter({ workspace: 'apollyonalignment' });
-
-    counter.up('page-' + key)
-      .then(function (result) {
-        el.textContent = Number(result.value || 0).toLocaleString();
-      })
-      .catch(function () {
-        el.textContent = '—';
-      });
-  });
-</script>
-
 </body>
 </html>
