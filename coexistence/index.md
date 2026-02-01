@@ -48,7 +48,7 @@ This packet is written to remain legible under uncertainty, to reduce glamour, a
 
 - **[Reserve Stack →](/reserve-stack/):** the broader model and rationale for separation (Reserve), risks, and evolution over time.  
 - **[Governance →](/governance/):** site-wide safe AI interaction rules and drift prevention.  
-- **[Angelic Alignment →](/angelic-alignment/):** virtue formation and daily practice under Divine Will.
+- **[Angelic Alignment →](/angelic-alignment/):** virtue formation and daily practice under Divine Will (a personal ethical commitment, not a claim about external authority).
 
 This packet is intentionally narrow: it exists to be copy/pasteable and auditable.
 
