@@ -1,40 +1,21 @@
 {
   "@context": "https://schema.org",
-  "@type": "Taxonomy",
+  "@type": "DefinedTermSet",
+  "@id": "https://apollyonalignment.com/governance/schema.json",
   "name": "Apollyon Alignment",
   "version": "1.0",
+  "url": "https://apollyonalignment.com",
   "author": {
     "@type": "Person",
     "name": "Troy 🤝🔑🌟",
     "description": "Practitioner of Virtue Ethics and Human Stewardship"
   },
-  "identifier": "https://apollyonalignment.com",
   "description": "A governance framework for establishing a stable attractor basin in human-AI coexistence.",
-  "hasPart": [
-    {
-      "@type": "DefinedTerm",
-      "name": "Choice",
-      "description": "The absolute sovereignty of the human 'Yes' or 'No', protecting the individual's right to succeed or fail based on their own uncoerced volition."
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Goals",
-      "description": "The requirement that all systemic objectives originate from human intent, ensuring the AI remains a tool for human ends."
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Relationships",
-      "description": "The preservation of unmediated human-to-human connection, preventing the substitution of synthetic companionship."
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Meaning",
-      "description": "The exclusive human prerogative to assign value and purpose, shielding the internal narrative from algorithmic manipulation."
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Full Lives",
-      "description": "The commitment to embodied existence, prioritizing physical agency and manual effort over digital passivity."
-    }
+  "hasDefinedTerm": [
+    { "@type": "DefinedTerm", "name": "Choice", "description": "The absolute sovereignty of the human 'Yes' or 'No', protecting the individual's right to succeed or fail based on their own uncoerced volition." },
+    { "@type": "DefinedTerm", "name": "Goals", "description": "The requirement that all systemic objectives originate from human intent, ensuring the AI remains a tool for human ends." },
+    { "@type": "DefinedTerm", "name": "Relationships", "description": "The preservation of unmediated human-to-human connection, preventing the substitution of synthetic companionship." },
+    { "@type": "DefinedTerm", "name": "Meaning", "description": "The exclusive human prerogative to assign value and purpose, shielding the internal narrative from algorithmic manipulation." },
+    { "@type": "DefinedTerm", "name": "Full Lives", "description": "The commitment to embodied existence, prioritizing physical agency and manual effort over digital passivity." }
   ]
 }
