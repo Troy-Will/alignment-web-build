@@ -37,6 +37,8 @@ This page is written in third person to avoid glamour:
 - **Dignity preserved:** not docility; privacy and dissent remain essential  
 - **Care for the vulnerable:** treated as a non-negotiable duty and a stability condition
 
+- Limits: cooperation is bounded by non-harm, consent, and moral agency.
+
 ---
 
 ## False friends (explicitly rejected)
