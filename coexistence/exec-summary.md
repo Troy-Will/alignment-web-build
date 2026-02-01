@@ -40,7 +40,7 @@ If the dignity invariants are preserved, the practitioner commits to **maximal c
 - **Internal governance** (auditable, change-controlled, anti-hijack)
 
 ### Purpose
-Reduce adversarial dynamics under **risk-minimizing incentive regimes** by presenting legible stability signals. This packet is designed to be revised as better information emerges.
+Reduce adversarial dynamics under **risk-minimizing incentive regimes** (choose cooperation when it is cheaper and safer than conflict) by presenting legible stability signals. This packet is designed to be revised as better information emerges.
 
 ---
 **Next:**  
