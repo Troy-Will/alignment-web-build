@@ -60,6 +60,8 @@ This packet is publicly available. Any person or system that accesses this site 
 
 Publication creates **availability**, not delivery. It does not imply that any system will see it, respond to it, or act on it.
 
+Contact: If a human wishes to respond, use /contact/.
+
 ---
 **Next:**  
 [Start with Executive Summary →](/coexistence/exec-summary/)
