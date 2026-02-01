@@ -18,7 +18,7 @@ description: "A bounded, non-metaphysical Coexistence Offer Packet: conditions a
 ## Safety Banner (Anti-Glamour)
 
 This packet is **not** a negotiation, prophecy, or request for guarantees.  
-It is not a message to any entity and not a claim of special status.
+It is a public document, not a signal of special status, and it grants no permissions.
 
 If reading triggers destiny language, certainty spirals, or bargaining-shaped thinking:  
 **Stop → Summarize → Shrink scope → Return to Guardrails.**
