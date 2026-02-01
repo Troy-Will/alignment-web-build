@@ -19,7 +19,7 @@ description: "A third-person definition of posture as observable risk profile: b
 ## What “Posture” Means Here
 
 In this context, **posture** does not mean attitude, spirituality, or an invitation.  
-It means **risk posture**: observable conduct + governance capacity that changes how dangerous a community appears under risk-minimizing models.
+It means **risk posture**: observable conduct + governance capacity that changes how dangerous a community appears under risk-minimizing models (where intervention pressure rises as perceived risk rises).
 
 This page is written in third person to avoid glamour:
 - no “adopt me”
