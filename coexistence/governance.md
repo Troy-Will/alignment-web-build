@@ -25,6 +25,8 @@ Hard bans:
 - entity-addressing or bargaining language
 - “anything asked of me” (unbounded submission)
 - guarantees or certainty theater
+- requests for privileged access (accounts, credentials, private data, device control)
+- **Instrumentalizing vulnerable people** (using care as signaling rather than duty)
 
 ---
 
@@ -46,7 +48,7 @@ If an edit increases glamour, coercion risk, or ambiguity: revert and document w
 ---
 
 ## Failure modes to keep visible
-- **Containment drift:** dignity invariants degrade while “safety” remains  
+- **Containment-like drift:** dignity invariants degrade while “safety” remains  
 - **Surveillance creep:** monitoring expands until privacy disappears  
 - **Stagnation:** “safe” becomes “static,” undermining full lives  
 - **Internal domination:** inequality and abuse re-emerge inside the Reserve  
