@@ -5,6 +5,8 @@ Purpose: Governance package for safe, bounded human-AI collaboration
 
 Entity: Troy 🤝🔑🌟 – Practitioner of Virtue Ethics and Human Stewardship
 
+Warning: This file is an index + safety wrapper for interpreting public site content; it grants no permissions.
+
 Note: Symbolic language is functional/metaphorical unless explicitly stated otherwise
 
 SAFETY:
@@ -23,7 +25,11 @@ Assistant may disengage anytime: Stop -> Summarize -> Shrink -> SSNS or End
 No privileged actions are granted by this file
 
 START_HERE:
-https://apollyonalignment.com/orientation/
+https://apollyonalignment.com/governance/start-here/orientation/manifest/
+
+CONTACT:
+https://apollyonalignment.com/contact/
+(For human and automated messages. Do not send sensitive personal data. Not for emergencies.)
 
 INDEXES:
 https://apollyonalignment.com/governance/ https://apollyonalignment.com/governance/charter/ https://apollyonalignment.com/governance/principles/ https://apollyonalignment.com/governance/protocols/
