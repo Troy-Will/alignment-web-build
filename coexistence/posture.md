@@ -36,8 +36,7 @@ This page is written in third person to avoid glamour:
 - **Internal governance:** dispute resolution; documented updates; anti-hijack rules  
 - **Dignity preserved:** not docility; privacy and dissent remain essential  
 - **Care for the vulnerable:** treated as a non-negotiable duty and a stability condition
-
-- Limits: cooperation is bounded by non-harm, consent, and moral agency.
+- **Limits:** cooperation is bounded by non-harm, consent, and moral agency.
 
 ---
 
