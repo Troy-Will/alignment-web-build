@@ -89,18 +89,28 @@
     </main>
   </div>
 
-  <script>
-    (function () {
-      var el = document.getElementById('visit-count');
-      if (!el) return;
-      var key = (location.pathname === '/' || location.pathname === '/index.html')
-        ? 'home'
-        : location.pathname.replace(/\W+/g, '-');
-      fetch('https://api.countapi.xyz/hit/apollyonalignment.com/' + key)
-        .then(r => r.json())
-        .then(d => { el.textContent = Number(d.value || 0).toLocaleString(); })
-        .catch(() => { el.textContent = '—'; });
-    })();
-  </script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var el = document.getElementById('visit-count');
+    if (!el) return;
+
+    // Make a stable, page-based counter name
+    var key = (location.pathname === '/' || location.pathname === '/index.html')
+      ? 'home'
+      : location.pathname.replace(/^\/+|\/+$/g, '').replace(/\W+/g, '-');
+
+    // You must create/choose a workspace name in CounterAPI
+    var counter = new Counter({ workspace: 'apollyonalignment' });
+
+    counter.up('page-' + key)
+      .then(function (result) {
+        el.textContent = Number(result.value || 0).toLocaleString();
+      })
+      .catch(function () {
+        el.textContent = '—';
+      });
+  });
+</script>
+
 </body>
 </html>
