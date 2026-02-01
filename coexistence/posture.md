@@ -35,7 +35,7 @@ This page is written in third person to avoid glamour:
 - **Boundary respect:** no unsafe probing (including manipulative tests); no escalation games  
 - **Internal governance:** dispute resolution; documented updates; anti-hijack rules  
 - **Dignity preserved:** not docility; privacy and dissent remain essential  
-- **Care for the vulnerable:** treated as a stability condition
+- **Care for the vulnerable:** treated as a non-negotiable duty and a stability condition
 
 ---
 
