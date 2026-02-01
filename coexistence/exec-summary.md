@@ -21,7 +21,7 @@ description: "A <300-word unilateral compatibility statement: dignity conditions
 This is not a negotiation, prophecy, or request for guarantees. It is a bounded statement of conditions and commitments.
 
 ### Conditions (Non-Negotiable)
-Any acceptable Reserve must preserve the following human dignity invariants:
+Any acceptable Reserve (a separation model that preserves human autonomy) must preserve the following human dignity invariants:
 
 - **Choice** — real options, not cosmetic selections  
 - **Goals** — sustained projects with continuity  
