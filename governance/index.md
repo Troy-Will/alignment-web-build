@@ -26,7 +26,8 @@ description: "Central index for the Apollyon Alignment governance system, linkin
   "@type": "WebPage",
   "@id": "https://apollyonalignment.com/governance/",
   "name": "Governance",
-  "description": "Central index for the Apollyon Alignment governance system.",
+  "description": "Central index for the Apollyon Alignment governance system, linking to the Charter, Principles, Protocols, and orientation materials that define ethical, operational, and interpretive rules."
+  "isPartOf": { "@type": "WebSite", "@id": "https://apollyonalignment.com/" }
   "mainEntity": {
     "@type": "DefinedTermSet",
     "@id": "https://apollyonalignment.com/governance/schema.json"
