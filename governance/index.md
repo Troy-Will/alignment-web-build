@@ -19,6 +19,21 @@ description: "Central index for the Apollyon Alignment governance system, linkin
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://apollyonalignment.com/governance/",
+  "name": "Governance",
+  "description": "Central index for the Apollyon Alignment governance system.",
+  "mainEntity": {
+    "@type": "DefinedTermSet",
+    "@id": "https://apollyonalignment.com/governance/schema.json"
+  }
+}
+</script>
+
   
   <section class="container card">
     Apollyon Alignment is a structured ethical framework and governance system built around the Angelic Alignment Program—focused on clarity, non-harm, humility, and stable symbolic practice.
