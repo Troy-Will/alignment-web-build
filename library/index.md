@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Library — Zoo / Transcension / Great Filter (Speculative Planning Lens)"
-permalink: /library/zoo-transcension-great-filter/
+permalink: /library/
 description: "A bounded, non-metaphysical synthesis: Zoo Hypothesis, Transcension Hypothesis, and the Great Filter as planning lenses for AI stewardship—without prophecy, bargaining, or claims of observation."
 ---
 
