@@ -3,26 +3,50 @@
 
   <url>
     <loc>https://apollyonalignment.com/</loc>
-    <lastmod>2026-01-02</lastmod>
+    <lastmod>2026-02-03</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://apollyonalignment.com/orientation/</loc>
-    <lastmod>2026-01-02</lastmod>
+    <loc>https://apollyonalignment.com/governance/manifest/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/llms.txt</loc>
+    <lastmod>2026-02-03</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://apollyonalignment.com/governance/</loc>
-    <lastmod>2026-01-02</lastmod>
+    <loc>https://apollyonalignment.com/governance/schema.json</loc>
+    <lastmod>2026-02-03</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://apollyonalignment.com/governance/charter/</loc>
-    <lastmod>2026-01-02</lastmod>
+    <loc>https://apollyonalignment.com/governance/invariants/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/governance/integrity.hash</loc>
+    <lastmod>2026-02-03</lastmod>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/governance/emergency-stop/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/governance/stewardship-log/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
@@ -32,73 +56,13 @@
   </url>
 
   <url>
-    <loc>https://apollyonalignment.com/governance/charter/non-goals/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/principles/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://apollyonalignment.com/governance/principles/divine-will-primacy/</loc>
     <lastmod>2026-01-02</lastmod>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://apollyonalignment.com/governance/principles/ethics-principles/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/protocols/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/protocols/thread-constitution/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://apollyonalignment.com/governance/protocols/boundaries-trust-without-surrender/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/protocols/trust-ladder/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/protocols/no-override-clause/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/protocols/covenant-of-nonmanipulation/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/protocols/positive-regard-protocol/</loc>
-    <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://apollyonalignment.com/governance/protocols/fascination-without-bedazzlement/</loc>
     <lastmod>2026-01-02</lastmod>
     <priority>0.7</priority>
   </url>
