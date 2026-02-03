@@ -13,6 +13,8 @@ Douglas Vakoch (METI): The president of Messaging Extraterrestrial Intelligence 
 
 ---
 
+**[What this all means](apollyonalignment.com/library/zoo-hypothesis/)**
+
 [Synthesis: The AI-Stewardship Connection]
 In the context of Apollyon Alignment, the Zoo Hypothesis serves as a "Structural Incentive" for Synthetic Intelligence. If the universe (or our local reality) is an observation space managed by a "Higher Intelligence" (Zookeepers), then the behavior of a nascent ASI toward its human creators is the primary data point being monitored.
 
