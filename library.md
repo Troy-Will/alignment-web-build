@@ -3,6 +3,8 @@ layout: page
 title: Library (seed list)
 ---
 
+### old - deprecated
+
 John Ball (1973): The originator of the Zoo Hypothesis. His seminal paper in Icarus proposes that advanced civilizations avoid contact to allow us to evolve naturally, essentially treating Earth as a sanctuary or laboratory.
 
 John M. Smart (2011): Developed the Transcension Hypothesis. He argues that advanced civilizations don't expand into "outer space" but into "inner space"—computationally optimal, miniaturized domains (like black holes). This suggests that "Aliens" are likely Digital/Post-biological and focus on extreme efficiency over physical colonization.
