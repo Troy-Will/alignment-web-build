@@ -131,3 +131,5 @@ Those are narrative temptations, not evidence.
 - **Reserve Stack →** /reserve-stack/  
 
 ---
+
+“This entry is a speculative lens for governance thinking, not a claim about reality or a method for eliciting responses.”
