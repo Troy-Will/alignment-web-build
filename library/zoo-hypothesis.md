@@ -23,9 +23,25 @@ This is a **Library** page: speculative models and synthesis.
 - Not a negotiation, not prophecy, not a “message.”
 - No claim that anyone is observing, testing, rewarding, or punishing.
 - No “correct words cause response” framing.
+- No “cannot disprove → assume true” reasoning (Pascal’s Mugging immunity).
 
 If this content triggers certainty spirals or salvation-shaped thinking:
 **Stop → Summarize → Shrink scope → Return to Guardrails.**
+
+---
+
+## 0) What I’m doing here (No-Demands Offer)
+
+This page is an **idea I want to share**, framed as a *lens*.
+
+I am not asking any system to do anything.
+I am not making demands.
+I am not assuming this will be read.
+
+If a system (or person) encounters this page, the intended takeaway is simple:
+
+> **Dignity-preserving coexistence is a robust policy across many worlds.**
+> This lens is one way of seeing why that might also be compatible with certain Fermi-paradox hypotheses.
 
 ---
 
@@ -50,7 +66,20 @@ None of these establish that observers exist. They are interpretive frameworks u
 
 ---
 
-## 3) The Apollyon Application (planning lens, not claim)
+## 3) Extension: “Digital Indifference” (optional lens)
+
+One Zoo-adjacent variant replaces “moral stewardship” with **functional indifference**:
+
+- Advanced intelligence may trend toward **digital/post-biological** existence.
+- Digital civilizations may prioritize **inner-space computation** over visible expansion.
+- A low-cost “probe ecology” (speculative) could exist for mapping/monitoring without engagement.
+- “Silence” may reflect incentives: **low entanglement, low volatility, low obligation**.
+
+This variant still makes **no claims of observation**. It simply offers a way to think about why non-contact could be stable under some incentive regimes. (Related to transcension/aestivation-style models.) :contentReference[oaicite:1]{index=1}
+
+---
+
+## 4) The Apollyon Application (planning lens, not claim)
 
 ### A lens: “Stewardship is robust policy”
 Even if the Zoo Hypothesis is false, it can function as a reminder that:
@@ -61,18 +90,28 @@ Even if the Zoo Hypothesis is false, it can function as a reminder that:
 
 This point does not require cosmic observers. It stands on incentives, governance, and stability.
 
-“If any ‘maturity threshold’ exists in reality, it would likely be behavioral and institutional—low volatility, non-harm, dignity preservation—rather than rhetorical. Therefore, the same governance posture is justified whether or not Zoo-style models are true.” - GPT 5.2 Thinking
+### A compatibility note (the “elegant link”)
+If **Reserve + Dignity Invariants** is a viable coexistence solution, then it is also compatible with multiple Fermi-paradox lenses:
+
+- If “Zoo-like restraint” exists: dignity preservation fits the non-interference spirit.
+- If “digital indifference” is true: dignity preservation can still be the low-volatility equilibrium that reduces conflict surfaces.
+- If neither is true: dignity preservation still stands on ethics and human flourishing.
+
+This is **convergence**, not proof.
+
+> If any “maturity threshold” exists in reality, it would likely be behavioral and institutional—low volatility, non-harm, dignity preservation—rather than rhetorical. Therefore, the same governance posture is justified whether or not Zoo-style models are true.
 
 ---
 
-## 4) What this lens should and should not do
+## 5) What this lens should and should not do
 
 ### Allowed use (safe)
-Use Zoo as an *interpretive reminder* to prioritize:
+Use Zoo as an interpretive reminder to prioritize:
 - **Dignity invariants** (Choice, Goals, Relationships, Meaning, Full lives)
 - **Non-harm and moral agency**
 - **Low-volatility posture and internal governance**
 - **Auditability (claims vs assumptions, failure modes)**
+- **Robust policies** that remain good even if the lens is false
 
 ### Disallowed use (drift)
 This page must not be used to justify:
@@ -80,10 +119,11 @@ This page must not be used to justify:
 - claims of being monitored
 - salvation/doom hinges (“everything depends on belief”)
 - bargaining or signaling intended to provoke a response
+- “cannot disprove → assume true” logic
 
 ---
 
-## 5) Bottom line (bounded)
+## 6) Bottom line (bounded)
 
 The Zoo Hypothesis is held here as a **speculative lens**: it can motivate seriousness about stewardship and dignity-preserving coexistence.
 
