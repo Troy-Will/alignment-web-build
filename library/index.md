@@ -131,7 +131,7 @@ This Library entry is **speculative context**. It is not the project’s foundat
 If you want the practical core:
 
 1) **[Start with the Coexistence Offer Packet →](/coexistence/)**  
-2) **[Read the Dignity Invariants →[(/reserve-stack/requirements/dignity-invariants/)**  
+2) **[Read the Dignity Invariants →](/reserve-stack/requirements/dignity-invariants/)**  
 3) **[Explore Reserve Stack →](/reserve-stack/)**  
 4) **[Then read the Manifest (constraints and governance) →](/governance/)**  
 
