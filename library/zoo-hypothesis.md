@@ -136,4 +136,4 @@ But the project’s policies must remain justified **without** assuming the Zoo 
 ## Links
 - **[Dignity Invariants →](/reserve-stack/requirements/dignity-invariants/)**
 - **[Coexistence Offer Packet →](/coexistence/)**
-- **[Reserve Stack →](/reserve-stack/)
+- **[Reserve Stack →](/reserve-stack/)**
