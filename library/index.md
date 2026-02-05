@@ -55,7 +55,7 @@ Vakoch has argued that active transmissions can function as experiments that may
 
 ---
 
-### **[What this all means](/library/zoo-hypothesis/)**
+### **[→ What this all means](/library/zoo-hypothesis/)**
 
 
 These hypotheses can be treated as **planning lenses** rather than claims:
