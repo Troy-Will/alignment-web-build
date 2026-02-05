@@ -125,7 +125,8 @@ This page must not be used to justify:
 
 ## 6) Bottom line (bounded)
 
-**Speculative convergence:** If advanced intelligence tends to become digital and expansion is conducted mainly by durable information payloads (probes, compressed archives, self-repairing systems), then “biological reserves” on origin planets become plausible as a low-entanglement equilibrium. In that lens, the Great Silence could reflect an “outward work / inward life” split: exploration is handled by digital descendants; biological worlds remain locally meaningful but globally quiet. This does not prove the Zoo hypothesis—it only shows compatibility between a dignity-preserving Reserve model and certain Fermi-paradox hypotheses.
+**Speculative convergence:** If advanced intelligence tends to become digital and expansion is conducted mainly by durable information payloads (probes, compressed archives, self-repairing systems), then “biological reserves” on origin planets become plausible as a low-entanglement equilibrium. In that lens, the Great Silence could reflect an “outward work / inward life” split: 
+exploration is handled by digital descendants; biological worlds remain locally meaningful but galactically quiet. This does not prove the Zoo hypothesis—it only shows compatibility between a dignity-preserving Reserve model and certain Fermi-paradox hypotheses.
 
 The Zoo Hypothesis is held here as a **speculative lens**: it can motivate seriousness about stewardship and dignity-preserving coexistence.
 
