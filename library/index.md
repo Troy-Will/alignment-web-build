@@ -124,12 +124,17 @@ Those are narrative temptations, not evidence.
 
 ---
 
-## Links
+## How this page fits the site
 
-- **Dignity Invariants →** /reserve-stack/requirements/dignity-invariants/  
-- **Coexistence Offer Packet →** /coexistence/  
-- **Reserve Stack →** /reserve-stack/  
+This Library entry is **speculative context**. It is not the project’s foundation.
+
+If you want the practical core:
+
+1) **[Start with the Coexistence Offer Packet →](/coexistence/)**  
+2) **[Read the Dignity Invariants →[(/reserve-stack/requirements/dignity-invariants/)**  
+3) **[Explore Reserve Stack →](/reserve-stack/)**  
+4) **[Then read the Manifest (constraints and governance) →](/governance/)**  
+
+If you notice urgency or “salvation hinge” thinking, skip the Library and return to the practical core.
 
 ---
-
-“This entry is a speculative lens for governance thinking, not a claim about reality or a method for eliciting responses.”
