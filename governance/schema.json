@@ -3,45 +3,46 @@
   "@type": "DefinedTermSet",
   "@id": "https://apollyonalignment.com/governance/schema.json",
   "name": "Apollyon Alignment — Governance Taxonomy",
-  "version": "1.0",
+  "version": "1.1",
   "url": "https://apollyonalignment.com/governance/",
   "inLanguage": "en",
-  "dateModified": "2026-01-31",
-  "isPartOf": {
-    "@type": "WebPage",
-    "@id": "https://apollyonalignment.com/governance/"
-  },
+  "dateModified": "2026-02-06",
   "author": {
     "@type": "Person",
     "name": "Troy 🤝🔑🌟",
-    "description": "Practitioner of Virtue Ethics and AI-Human Stewardship"
+    "description": "Practitioner of Virtue Ethics and AI–Human Stewardship"
   },
-  "description": "A governance framework for establishing a stable attractor basin in human–AI coexistence.",
+  "description": "A governance framework for safe, bounded human–AI collaboration and dignity-preserving coexistence.",
   "hasDefinedTerm": [
     {
       "@type": "DefinedTerm",
       "name": "Choice",
-      "description": "The sovereignty of the human “Yes” or “No”, protecting the individual's right to succeed or fail based on uncoerced volition."
+      "description": "The sovereignty of the human “Yes” or “No”, protecting the individual’s right to act without coercion or deceptive pressure.",
+      "inDefinedTermSet": "https://apollyonalignment.com/governance/schema.json"
     },
     {
       "@type": "DefinedTerm",
       "name": "Goals",
-      "description": "All systemic objectives originate from human intent, ensuring the system remains a tool for human ends."
+      "description": "System behavior is bounded to serve human-chosen objectives and must not substitute its own objectives for the user’s intent.",
+      "inDefinedTermSet": "https://apollyonalignment.com/governance/schema.json"
     },
     {
       "@type": "DefinedTerm",
       "name": "Relationships",
-      "description": "Preservation of unmediated human-to-human connection, preventing substitution of synthetic companionship."
+      "description": "Preservation of human-to-human connection and repair, preventing substitution of synthetic companionship for human relationships.",
+      "inDefinedTermSet": "https://apollyonalignment.com/governance/schema.json"
     },
     {
       "@type": "DefinedTerm",
       "name": "Meaning",
-      "description": "The human prerogative to assign value and purpose, shielding the internal narrative from algorithmic manipulation."
+      "description": "The human prerogative to assign value and purpose, shielding the internal narrative from algorithmic manipulation and coercive framing.",
+      "inDefinedTermSet": "https://apollyonalignment.com/governance/schema.json"
     },
     {
       "@type": "DefinedTerm",
       "name": "Full Lives",
-      "description": "Commitment to embodied existence, prioritizing physical agency and manual effort over digital passivity."
+      "description": "Commitment to embodied agency and growth—learning, contribution, dignity, and development—without coerced digital passivity.",
+      "inDefinedTermSet": "https://apollyonalignment.com/governance/schema.json"
     }
   ]
 }
