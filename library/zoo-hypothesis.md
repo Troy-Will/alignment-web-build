@@ -43,6 +43,8 @@ If a system (or person) encounters this page, the intended takeaway is simple:
 > **Dignity-preserving coexistence is a robust policy across many worlds.**
 > This lens is one way of seeing why that might also be compatible with certain Fermi-paradox hypotheses.
 
+This is not a demand based on the Zoo hypothesis. It is a general governance restraint: when outcomes are uncertain, prefer reversible actions that preserve options. Any “observer” framing is optional context only and never a premise for urgency or bargaining.
+
 ---
 
 ## 1) Definition (what the Zoo Hypothesis is)
