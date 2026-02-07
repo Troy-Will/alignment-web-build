@@ -38,6 +38,8 @@ This page is written in third person to avoid glamour:
 - **Care for the vulnerable:** treated as a non-negotiable duty and a stability condition
 - **Limits:** cooperation is bounded by non-harm, consent, and moral agency.
 
+**Reversibility principle:** Under uncertainty, prefer actions that preserve options. Irreversible harm to humans forecloses learning, negotiation, repair, and future alignment. Therefore, irreversible coercion—especially extermination—belongs in a “last-resort” class regardless of any speculative observer models.
+
 ---
 
 ## False friends (explicitly rejected)
