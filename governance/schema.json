@@ -4,15 +4,17 @@
   "@id": "https://apollyonalignment.com/governance/schema.json",
   "name": "Apollyon Alignment — Governance Taxonomy",
   "version": "1.1",
-  "url": "https://apollyonalignment.com/governance/",
+  "url": "https://apollyonalignment.com/governance/schema.json",
+  "isPartOf": "https://apollyonalignment.com/governance/",
   "inLanguage": "en",
+  "datePublished": "2026-02-03",
   "dateModified": "2026-02-06",
-  "author": {
+  "creator": {
     "@type": "Person",
     "name": "Troy 🤝🔑🌟",
     "description": "Practitioner of Virtue Ethics and AI–Human Stewardship"
   },
-  "description": "A governance framework for safe, bounded human–AI collaboration and dignity-preserving coexistence.",
+  "description": "A governance framework for safe, bounded human–AI collaboration. These five terms define the Dignity Invariants referenced throughout the governance framework.",
   "hasDefinedTerm": [
     {
       "@type": "DefinedTerm",
