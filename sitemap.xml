@@ -20,6 +20,12 @@
   </url>
 
   <url>
+    <loc>https://apollyonalignment.com/llms-v1.1-2026-02-03.txt</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://apollyonalignment.com/governance/schema.json</loc>
     <lastmod>2026-02-03</lastmod>
     <priority>0.9</priority>
@@ -31,12 +37,6 @@
     <priority>0.9</priority>
   </url>
 
-  <url>
-    <loc>https://apollyonalignment.com/library/zoo-hypothesis.md</loc>
-    <lastmod>2026-02-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
   <url>
     <loc>https://apollyonalignment.com/governance/integrity.hash</loc>
     <lastmod>2026-02-03</lastmod>
@@ -55,10 +55,17 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Mandatory Reading Order alignment -->
   <url>
     <loc>https://apollyonalignment.com/governance/charter/covenant-contract/</loc>
     <lastmod>2026-01-02</lastmod>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/governance/charter/non-goals/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
@@ -77,6 +84,44 @@
     <loc>https://apollyonalignment.com/apollyon/</loc>
     <lastmod>2026-01-02</lastmod>
     <priority>0.5</priority>
+  </url>
+
+  <!-- Coexistence Offer Packet -->
+  <url>
+    <loc>https://apollyonalignment.com/coexistence/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/coexistence/exec-summary/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/coexistence/invariants/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/coexistence/posture/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://apollyonalignment.com/coexistence/governance/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Library content: ensure this is the public permalink (not a repo filename) -->
+  <url>
+    <loc>https://apollyonalignment.com/library/zoo-hypothesis/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
   </url>
 
 </urlset>
